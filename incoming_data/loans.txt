@@ -1,0 +1,1001 @@
+customer_id|loan_type|amount_utilized|utilization_date|loan_reason
+CUST077451|Top-Up Loan|168000|2024-12-18|You should definitely join we could host a small get-together at my place this weekend
+CUST048212|Business Loan|781000|2025-01-01|We seriously need to we could spend a lazy Sunday just binge-watching old shows
+CUST091363|Credit Card Loan|516000|2024-07-15|Hey I was thinking we could host a small get-together at my place this weekend
+CUST014260|Auto Loan|548000|2024-08-04|Thank you for your attention that the scheduled timeline for the project remains unchanged
+CUST085898|Top-Up Loan|437000|2024-11-25|We should arrange a meeting that your valuable feedback is shared with the broader management team
+CUST066085|Auto Loan|832000|2024-07-17|Please do not hesitate to reach out that the invoice details are correctly reflected in your records
+CUST066718|Travel Loan|359000|2024-07-08|Maybe we can plan something we could spend a lazy Sunday just binge-watching old shows
+CUST018758|Auto Loan|646000|2024-09-01|The requested documents have been prepared and that your valuable feedback is shared with the broader management team
+CUST058872|Credit Card Loan|954000|2025-01-26|We are awaiting your confirmation that your valuable feedback is shared with the broader management team
+CUST063024|Medical Loan|440000|2024-09-03|You should definitely join we could grab dinner sometime this week and catch up properly
+CUST000433|Loan Against Deposit|907000|2024-06-12|Thank you for your attention that your comments are incorporated into the final version of the agreement
+CUST096277|Home Loan|433000|2024-09-13|We seriously need to we could start working on that project idea we joked about earlier
+CUST007444|Auto Loan|105000|2024-07-28|Thank you for your attention that your valuable feedback is shared with the broader management team
+CUST044992|Credit Card Loan|283000|2025-03-23|You should definitely join we could try that new pizza place everyone keeps recommending
+CUST065423|Home Loan|573000|2024-11-16|I would like to inform you that we maintain open communication during the implementation period
+CUST092750|Medical Loan|735000|2024-09-25|Just wanted to say we could book tickets for that concert happening next month
+CUST088980|Loan Against Deposit|501000|2024-07-25|Thank you for your attention that the updated policy guidelines have been distributed to all departments
+CUST005025|Education Loan|769000|2024-07-13|We seriously need to we could grab dinner sometime this week and catch up properly
+CUST016642|Loan Against Deposit|981000|2024-12-22|We should arrange a meeting that the invoice details are correctly reflected in your records
+CUST060701|Education Loan|114000|2025-04-19|Thinking we should we could grab dinner sometime this week and catch up properly
+CUST093892|Business Loan|823000|2024-11-08|Hey I was thinking we could check out that new movie you mentioned last month
+CUST081488|Home Loan|738000|2025-01-19|Thank you for your attention that your valuable feedback is shared with the broader management team
+CUST049219|Education Loan|590000|2025-01-27|Thinking we should we could go on a spontaneous road trip without much planning
+CUST048385|Travel Loan|864000|2024-12-10|We are awaiting your confirmation that the project deliverables are submitted by the upcoming deadline
+CUST013008|Business Loan|110000|2024-12-24|It would be greatly appreciated if that we maintain open communication during the implementation period
+CUST078881|Home Loan|121000|2024-07-28|It would be awesome if we could go on a spontaneous road trip without much planning
+CUST081041|Loan Against Deposit|15000|2024-08-25|Please do not hesitate to reach out that the updated policy guidelines have been distributed to all departments
+CUST015385|Medical Loan|826000|2024-05-22|Let me know if we could go for a hike if the weather stays good
+CUST099519|Personal Loan|234000|2024-07-13|We are awaiting your confirmation that there are no pending items before the closure of this phase
+CUST037580|Travel Loan|734000|2025-01-16|I finally got time to we could hang out by the beach before it gets colder again
+CUST041328|Loan Against Deposit|967000|2024-05-15|Maybe we can plan something we could start working on that project idea we joked about earlier
+CUST067729|Travel Loan|71000|2025-04-23|Kindly let me know that the project deliverables are submitted by the upcoming deadline
+CUST059121|Credit Card Loan|113000|2024-11-15|It would be awesome if we could try that new pizza place everyone keeps recommending
+CUST041162|Loan Against Deposit|598000|2025-04-17|The requested documents have been prepared and that the invoice details are correctly reflected in your records
+CUST046638|Home Loan|723000|2024-08-24|I finally got time to we could grab dinner sometime this week and catch up properly
+CUST030201|Auto Loan|408000|2024-06-24|Thank you for your attention that all compliance requirements have been successfully met
+CUST001985|Top-Up Loan|140000|2024-06-28|Thinking we should we could check out that new movie you mentioned last month
+CUST002915|Credit Card Loan|449000|2024-05-14|It has been way too long since we could try that new pizza place everyone keeps recommending
+CUST039707|Travel Loan|929000|2025-03-16|We seriously need to we could host a small get-together at my place this weekend
+CUST099914|Home Loan|104000|2024-10-09|We seriously need to we could spend a lazy Sunday just binge-watching old shows
+CUST072972|Auto Loan|732000|2024-12-26|Thinking we should we could book tickets for that concert happening next month
+CUST068408|Credit Card Loan|616000|2025-03-25|Hey I was thinking we could host a small get-together at my place this weekend
+CUST082029|Personal Loan|718000|2024-09-02|Thinking we should we could try that new pizza place everyone keeps recommending
+CUST057035|Loan Against Deposit|338000|2024-10-13|I finally got time to we could host a small get-together at my place this weekend
+CUST081954|Loan Against Deposit|461000|2024-09-18|Thank you for your attention that the invoice details are correctly reflected in your records
+CUST069090|Auto Loan|769000|2025-03-23|Kindly let me know that the project deliverables are submitted by the upcoming deadline
+CUST059710|Medical Loan|273000|2024-09-30|It has been way too long since we could book tickets for that concert happening next month
+CUST010606|Travel Loan|439000|2024-11-14|Thinking we should we could go on a spontaneous road trip without much planning
+CUST061918|Medical Loan|862000|2025-03-26|The requested documents have been prepared and that we maintain open communication during the implementation period
+CUST048379|Travel Loan|980000|2025-04-27|I am writing to follow up that the scheduled timeline for the project remains unchanged
+CUST070723|Credit Card Loan|847000|2024-08-01|Please do not hesitate to reach out that there are no pending items before the closure of this phase
+CUST067187|Auto Loan|160000|2024-09-20|It would be awesome if we could go for a hike if the weather stays good
+CUST088671|Medical Loan|947000|2025-03-03|I am writing to follow up that your valuable feedback is shared with the broader management team
+CUST048246|Personal Loan|155000|2025-02-04|We are awaiting your confirmation that the scheduled timeline for the project remains unchanged
+CUST059500|Personal Loan|881000|2024-07-31|Thank you for your attention that the invoice details are correctly reflected in your records
+CUST060264|Personal Loan|901000|2024-10-11|The requested documents have been prepared and that all compliance requirements have been successfully met
+CUST090019|Business Loan|589000|2025-02-01|Thinking we should we could check out that new movie you mentioned last month
+CUST016769|Personal Loan|912000|2025-03-11|Please ensure that that all compliance requirements have been successfully met
+CUST078442|Education Loan|616000|2025-02-28|I would like to inform you that there are no pending items before the closure of this phase
+CUST033409|Top-Up Loan|452000|2025-04-30|Maybe we can plan something we could grab dinner sometime this week and catch up properly
+CUST099145|Loan Against Deposit|263000|2024-10-05|Maybe we can plan something we could grab dinner sometime this week and catch up properly
+CUST060796|Travel Loan|160000|2025-02-13|I finally got time to we could hang out by the beach before it gets colder again
+CUST087990|Travel Loan|418000|2024-12-07|Just wanted to say we could go on a spontaneous road trip without much planning
+CUST087304|Personal Loan|93000|2025-02-15|Please ensure that that the invoice details are correctly reflected in your records
+CUST034075|Loan Against Deposit|505000|2024-09-28|You should definitely join we could grab dinner sometime this week and catch up properly
+CUST052980|Education Loan|272000|2024-10-06|I am writing to follow up that the scheduled timeline for the project remains unchanged
+CUST005195|Business Loan|228000|2024-08-07|It has been way too long since we could start working on that project idea we joked about earlier
+CUST012777|Top-Up Loan|883000|2025-01-16|I finally got time to we could hang out by the beach before it gets colder again
+CUST070041|Auto Loan|188000|2024-06-13|We are awaiting your confirmation that there are no pending items before the closure of this phase
+CUST055111|Top-Up Loan|686000|2024-07-10|We should arrange a meeting that the revised contract terms are reviewed and accepted
+CUST029538|Education Loan|468000|2024-08-15|Maybe we can plan something we could go for a hike if the weather stays good
+CUST095634|Loan Against Deposit|744000|2024-09-17|It has been way too long since we could book tickets for that concert happening next month
+CUST041968|Education Loan|373000|2024-12-22|I would like to inform you that the invoice details are correctly reflected in your records
+CUST015641|Business Loan|992000|2024-10-06|Please ensure that that your comments are incorporated into the final version of the agreement
+CUST096042|Personal Loan|861000|2025-04-06|You should definitely join we could grab dinner sometime this week and catch up properly
+CUST097051|Top-Up Loan|138000|2024-10-03|Kindly let me know that your comments are incorporated into the final version of the agreement
+CUST035543|Auto Loan|833000|2024-12-03|You should definitely join we could book tickets for that concert happening next month
+CUST038206|Home Loan|643000|2024-09-16|I finally got time to we could book tickets for that concert happening next month
+CUST027991|Medical Loan|445000|2024-10-30|Please do not hesitate to reach out that the updated policy guidelines have been distributed to all departments
+CUST048593|Loan Against Deposit|276000|2024-05-09|We should arrange a meeting that your comments are incorporated into the final version of the agreement
+CUST013160|Business Loan|70000|2024-07-25|The requested documents have been prepared and that all compliance requirements have been successfully met
+CUST029918|Education Loan|347000|2025-03-30|It has been way too long since we could try that new pizza place everyone keeps recommending
+CUST028993|Medical Loan|301000|2024-05-14|Thank you for your attention that the scheduled timeline for the project remains unchanged
+CUST029395|Education Loan|82000|2025-01-06|I would like to inform you that the updated policy guidelines have been distributed to all departments
+CUST026603|Travel Loan|393000|2025-03-22|It would be awesome if we could start working on that project idea we joked about earlier
+CUST058121|Education Loan|213000|2025-04-27|I am writing to follow up that all compliance requirements have been successfully met
+CUST072132|Business Loan|84000|2024-10-18|It has been way too long since we could check out that new movie you mentioned last month
+CUST064369|Auto Loan|301000|2024-09-27|I finally got time to we could start working on that project idea we joked about earlier
+CUST095113|Home Loan|110000|2024-11-19|Kindly let me know that the revised contract terms are reviewed and accepted
+CUST073786|Personal Loan|68000|2024-11-30|We should arrange a meeting that the scheduled timeline for the project remains unchanged
+CUST014373|Auto Loan|59000|2025-02-20|Hey I was thinking we could go on a spontaneous road trip without much planning
+CUST090851|Credit Card Loan|14000|2024-07-10|Let me know if we could check out that new movie you mentioned last month
+CUST011078|Medical Loan|272000|2024-06-26|I am writing to follow up that the project deliverables are submitted by the upcoming deadline
+CUST092120|Medical Loan|478000|2025-02-22|Thank you for your attention that all compliance requirements have been successfully met
+CUST024324|Business Loan|724000|2024-06-14|Kindly let me know that all compliance requirements have been successfully met
+CUST012192|Education Loan|564000|2024-06-22|It would be greatly appreciated if that the scheduled timeline for the project remains unchanged
+CUST051055|Education Loan|269000|2024-07-10|Please ensure that that the revised contract terms are reviewed and accepted
+CUST076252|Auto Loan|225000|2024-05-29|Let me know if we could book tickets for that concert happening next month
+CUST028506|Education Loan|476000|2024-09-22|We seriously need to we could host a small get-together at my place this weekend
+CUST093559|Personal Loan|914000|2024-09-16|Let me know if we could check out that new movie you mentioned last month
+CUST042815|Business Loan|639000|2025-02-02|It has been way too long since we could spend a lazy Sunday just binge-watching old shows
+CUST068285|Credit Card Loan|234000|2024-10-15|Maybe we can plan something we could grab dinner sometime this week and catch up properly
+CUST097247|Auto Loan|489000|2025-01-04|Hey I was thinking we could host a small get-together at my place this weekend
+CUST001292|Business Loan|841000|2024-08-21|Thank you for your attention that the updated policy guidelines have been distributed to all departments
+CUST041878|Top-Up Loan|375000|2025-02-13|Please do not hesitate to reach out that there are no pending items before the closure of this phase
+CUST023771|Home Loan|296000|2024-07-18|We should arrange a meeting that your valuable feedback is shared with the broader management team
+CUST099652|Personal Loan|389000|2025-03-07|We are awaiting your confirmation that the revised contract terms are reviewed and accepted
+CUST081928|Medical Loan|93000|2024-05-18|It would be greatly appreciated if that your comments are incorporated into the final version of the agreement
+CUST043983|Top-Up Loan|396000|2024-09-18|Hey I was thinking we could go for a hike if the weather stays good
+CUST072901|Loan Against Deposit|864000|2024-05-26|Thank you for your attention that all compliance requirements have been successfully met
+CUST077227|Loan Against Deposit|18000|2024-07-13|The requested documents have been prepared and that your valuable feedback is shared with the broader management team
+CUST066499|Business Loan|270000|2024-11-10|Thinking we should we could host a small get-together at my place this weekend
+CUST043897|Business Loan|381000|2025-03-08|Thank you for your attention that your comments are incorporated into the final version of the agreement
+CUST084225|Travel Loan|452000|2024-10-18|Please do not hesitate to reach out that all compliance requirements have been successfully met
+CUST072389|Credit Card Loan|461000|2024-11-24|Let me know if we could book tickets for that concert happening next month
+CUST008455|Home Loan|828000|2024-06-13|I am writing to follow up that the scheduled timeline for the project remains unchanged
+CUST032018|Personal Loan|769000|2024-07-01|The requested documents have been prepared and that the revised contract terms are reviewed and accepted
+CUST023434|Auto Loan|864000|2024-10-23|Hey I was thinking we could try that new pizza place everyone keeps recommending
+CUST086855|Education Loan|468000|2024-10-25|Let me know if we could hang out by the beach before it gets colder again
+CUST027255|Personal Loan|501000|2024-11-12|Kindly let me know that your valuable feedback is shared with the broader management team
+CUST072288|Home Loan|379000|2024-05-08|We seriously need to we could host a small get-together at my place this weekend
+CUST067012|Business Loan|712000|2024-05-18|It has been way too long since we could grab dinner sometime this week and catch up properly
+CUST071205|Personal Loan|417000|2024-06-13|Just wanted to say we could grab dinner sometime this week and catch up properly
+CUST098892|Credit Card Loan|716000|2024-05-12|I finally got time to we could start working on that project idea we joked about earlier
+CUST018320|Credit Card Loan|100000|2024-08-20|It would be greatly appreciated if that the project deliverables are submitted by the upcoming deadline
+CUST008903|Top-Up Loan|944000|2025-04-14|Let me know if we could book tickets for that concert happening next month
+CUST070509|Education Loan|68000|2024-10-25|Let me know if we could start working on that project idea we joked about earlier
+CUST012285|Medical Loan|519000|2024-12-01|Thinking we should we could check out that new movie you mentioned last month
+CUST056751|Education Loan|761000|2024-09-15|It has been way too long since we could go for a hike if the weather stays good
+CUST084495|Top-Up Loan|226000|2024-12-30|Just wanted to say we could start working on that project idea we joked about earlier
+CUST038329|Credit Card Loan|132000|2025-01-13|We seriously need to we could start working on that project idea we joked about earlier
+CUST076091|Top-Up Loan|109000|2024-08-10|It would be greatly appreciated if that the project deliverables are submitted by the upcoming deadline
+CUST056638|Credit Card Loan|459000|2025-04-30|It would be awesome if we could grab dinner sometime this week and catch up properly
+CUST080259|Business Loan|833000|2025-02-14|I would like to inform you that the updated policy guidelines have been distributed to all departments
+CUST012579|Medical Loan|802000|2024-05-25|Let me know if we could hang out by the beach before it gets colder again
+CUST049259|Travel Loan|164000|2024-10-18|Just wanted to say we could hang out by the beach before it gets colder again
+CUST086067|Personal Loan|315000|2024-06-02|Thank you for your attention that the scheduled timeline for the project remains unchanged
+CUST014883|Loan Against Deposit|369000|2024-05-23|We should arrange a meeting that the invoice details are correctly reflected in your records
+CUST031026|Business Loan|68000|2024-10-18|I finally got time to we could start working on that project idea we joked about earlier
+CUST017950|Loan Against Deposit|262000|2024-05-14|We should arrange a meeting that the scheduled timeline for the project remains unchanged
+CUST029841|Loan Against Deposit|234000|2025-05-08|The requested documents have been prepared and that all compliance requirements have been successfully met
+CUST072599|Top-Up Loan|822000|2025-02-15|Hey I was thinking we could hang out by the beach before it gets colder again
+CUST004878|Loan Against Deposit|299000|2025-02-27|The requested documents have been prepared and that the invoice details are correctly reflected in your records
+CUST084553|Auto Loan|632000|2024-05-23|We seriously need to we could go for a hike if the weather stays good
+CUST002327|Business Loan|920000|2024-08-18|You should definitely join we could hang out by the beach before it gets colder again
+CUST025364|Loan Against Deposit|743000|2024-12-12|It has been way too long since we could grab dinner sometime this week and catch up properly
+CUST093626|Medical Loan|948000|2024-06-29|Just wanted to say we could go on a spontaneous road trip without much planning
+CUST039111|Travel Loan|191000|2025-02-02|We seriously need to we could host a small get-together at my place this weekend
+CUST026124|Travel Loan|925000|2024-12-11|It has been way too long since we could spend a lazy Sunday just binge-watching old shows
+CUST045422|Travel Loan|572000|2024-09-28|Just wanted to say we could book tickets for that concert happening next month
+CUST092765|Credit Card Loan|940000|2025-04-15|I am writing to follow up that all compliance requirements have been successfully met
+CUST089275|Auto Loan|406000|2024-09-04|I am writing to follow up that the updated policy guidelines have been distributed to all departments
+CUST048459|Top-Up Loan|449000|2024-09-28|Maybe we can plan something we could go for a hike if the weather stays good
+CUST093743|Auto Loan|511000|2024-10-20|It would be awesome if we could grab dinner sometime this week and catch up properly
+CUST029935|Top-Up Loan|57000|2024-05-13|Thank you for your attention that all compliance requirements have been successfully met
+CUST000349|Auto Loan|628000|2025-01-16|Thank you for your attention that your comments are incorporated into the final version of the agreement
+CUST095062|Auto Loan|966000|2024-09-02|Thinking we should we could hang out by the beach before it gets colder again
+CUST092935|Personal Loan|681000|2025-04-06|Thank you for your attention that the invoice details are correctly reflected in your records
+CUST054756|Home Loan|514000|2024-11-30|Let me know if we could go for a hike if the weather stays good
+CUST042992|Travel Loan|596000|2024-06-14|We should arrange a meeting that there are no pending items before the closure of this phase
+CUST078803|Personal Loan|127000|2025-03-21|Please ensure that that the revised contract terms are reviewed and accepted
+CUST035305|Credit Card Loan|278000|2024-08-12|It has been way too long since we could spend a lazy Sunday just binge-watching old shows
+CUST013474|Top-Up Loan|976000|2024-06-16|Let me know if we could go for a hike if the weather stays good
+CUST012421|Personal Loan|555000|2024-10-25|Thinking we should we could try that new pizza place everyone keeps recommending
+CUST092342|Auto Loan|427000|2025-04-23|Just wanted to say we could spend a lazy Sunday just binge-watching old shows
+CUST040069|Medical Loan|562000|2024-07-25|We should arrange a meeting that there are no pending items before the closure of this phase
+CUST008783|Education Loan|376000|2024-07-13|I would like to inform you that your valuable feedback is shared with the broader management team
+CUST004778|Travel Loan|750000|2025-04-19|The requested documents have been prepared and that the scheduled timeline for the project remains unchanged
+CUST055089|Personal Loan|240000|2024-06-23|Please ensure that that your comments are incorporated into the final version of the agreement
+CUST001095|Medical Loan|394000|2024-09-25|Just wanted to say we could try that new pizza place everyone keeps recommending
+CUST044283|Top-Up Loan|853000|2024-11-27|Maybe we can plan something we could check out that new movie you mentioned last month
+CUST096539|Education Loan|421000|2024-11-29|It would be awesome if we could spend a lazy Sunday just binge-watching old shows
+CUST005404|Top-Up Loan|88000|2025-03-08|Let me know if we could try that new pizza place everyone keeps recommending
+CUST058671|Loan Against Deposit|849000|2024-11-27|Let me know if we could try that new pizza place everyone keeps recommending
+CUST065179|Top-Up Loan|934000|2025-03-07|It would be greatly appreciated if that the updated policy guidelines have been distributed to all departments
+CUST032913|Top-Up Loan|856000|2024-05-13|Hey I was thinking we could hang out by the beach before it gets colder again
+CUST094780|Credit Card Loan|962000|2024-12-10|I am writing to follow up that the invoice details are correctly reflected in your records
+CUST064226|Auto Loan|202000|2024-12-30|Let me know if we could start working on that project idea we joked about earlier
+CUST085334|Education Loan|724000|2024-11-03|Please do not hesitate to reach out that the project deliverables are submitted by the upcoming deadline
+CUST095996|Travel Loan|199000|2024-05-26|It has been way too long since we could go for a hike if the weather stays good
+CUST064583|Top-Up Loan|278000|2025-02-20|Just wanted to say we could grab dinner sometime this week and catch up properly
+CUST065641|Top-Up Loan|970000|2025-04-03|We are awaiting your confirmation that the revised contract terms are reviewed and accepted
+CUST090901|Credit Card Loan|206000|2024-09-23|Maybe we can plan something we could go for a hike if the weather stays good
+CUST007864|Credit Card Loan|223000|2025-04-27|Thinking we should we could try that new pizza place everyone keeps recommending
+CUST046028|Top-Up Loan|302000|2025-02-02|Kindly let me know that the revised contract terms are reviewed and accepted
+CUST060252|Travel Loan|819000|2024-10-08|Hey I was thinking we could try that new pizza place everyone keeps recommending
+CUST039651|Credit Card Loan|776000|2025-02-20|It would be greatly appreciated if that we maintain open communication during the implementation period
+CUST026427|Credit Card Loan|540000|2024-12-03|The requested documents have been prepared and that the revised contract terms are reviewed and accepted
+CUST022943|Top-Up Loan|286000|2024-09-24|Just wanted to say we could spend a lazy Sunday just binge-watching old shows
+CUST069444|Education Loan|695000|2024-10-19|Just wanted to say we could book tickets for that concert happening next month
+CUST098053|Personal Loan|861000|2024-11-01|I am writing to follow up that the scheduled timeline for the project remains unchanged
+CUST045314|Home Loan|623000|2024-08-22|Just wanted to say we could grab dinner sometime this week and catch up properly
+CUST095148|Education Loan|461000|2024-09-03|We should arrange a meeting that the updated policy guidelines have been distributed to all departments
+CUST018055|Medical Loan|508000|2025-04-13|Maybe we can plan something we could start working on that project idea we joked about earlier
+CUST062236|Credit Card Loan|205000|2024-05-18|I finally got time to we could go on a spontaneous road trip without much planning
+CUST066518|Top-Up Loan|852000|2025-02-12|Please do not hesitate to reach out that the revised contract terms are reviewed and accepted
+CUST028136|Medical Loan|177000|2025-04-05|The requested documents have been prepared and that the project deliverables are submitted by the upcoming deadline
+CUST017059|Personal Loan|608000|2024-06-02|We are awaiting your confirmation that the project deliverables are submitted by the upcoming deadline
+CUST084490|Auto Loan|686000|2024-07-23|Thank you for your attention that your comments are incorporated into the final version of the agreement
+CUST053969|Auto Loan|183000|2024-08-25|Just wanted to say we could book tickets for that concert happening next month
+CUST080110|Loan Against Deposit|204000|2024-11-16|Just wanted to say we could try that new pizza place everyone keeps recommending
+CUST008499|Business Loan|17000|2024-09-10|Just wanted to say we could book tickets for that concert happening next month
+CUST061692|Top-Up Loan|148000|2024-07-14|It has been way too long since we could try that new pizza place everyone keeps recommending
+CUST096016|Business Loan|949000|2024-07-31|I finally got time to we could start working on that project idea we joked about earlier
+CUST003220|Personal Loan|267000|2024-10-12|Hey I was thinking we could try that new pizza place everyone keeps recommending
+CUST080227|Loan Against Deposit|972000|2025-04-01|It has been way too long since we could spend a lazy Sunday just binge-watching old shows
+CUST092444|Business Loan|183000|2024-07-28|Hey I was thinking we could go on a spontaneous road trip without much planning
+CUST015691|Personal Loan|852000|2024-10-14|Thank you for your attention that we maintain open communication during the implementation period
+CUST095340|Credit Card Loan|706000|2024-06-25|You should definitely join we could start working on that project idea we joked about earlier
+CUST093318|Credit Card Loan|241000|2025-04-21|It would be awesome if we could spend a lazy Sunday just binge-watching old shows
+CUST078148|Travel Loan|923000|2024-11-27|Just wanted to say we could hang out by the beach before it gets colder again
+CUST014548|Education Loan|681000|2024-06-10|I am writing to follow up that the revised contract terms are reviewed and accepted
+CUST075503|Personal Loan|239000|2024-07-29|Thinking we should we could check out that new movie you mentioned last month
+CUST014080|Personal Loan|810000|2024-08-20|I am writing to follow up that the updated policy guidelines have been distributed to all departments
+CUST062638|Travel Loan|284000|2024-06-18|Hey I was thinking we could hang out by the beach before it gets colder again
+CUST023360|Credit Card Loan|858000|2024-09-26|It would be greatly appreciated if that the updated policy guidelines have been distributed to all departments
+CUST033057|Medical Loan|155000|2024-12-06|The requested documents have been prepared and that the scheduled timeline for the project remains unchanged
+CUST005130|Education Loan|560000|2025-05-08|We are awaiting your confirmation that we maintain open communication during the implementation period
+CUST032247|Credit Card Loan|539000|2024-06-26|We seriously need to we could start working on that project idea we joked about earlier
+CUST059265|Loan Against Deposit|895000|2024-07-21|We should arrange a meeting that there are no pending items before the closure of this phase
+CUST011275|Education Loan|746000|2025-03-02|Please do not hesitate to reach out that the updated policy guidelines have been distributed to all departments
+CUST012683|Top-Up Loan|265000|2024-11-13|It would be greatly appreciated if that the updated policy guidelines have been distributed to all departments
+CUST094354|Travel Loan|92000|2025-03-24|I am writing to follow up that the project deliverables are submitted by the upcoming deadline
+CUST080852|Education Loan|232000|2025-04-21|Just wanted to say we could book tickets for that concert happening next month
+CUST025747|Top-Up Loan|622000|2024-08-23|Hey I was thinking we could hang out by the beach before it gets colder again
+CUST082892|Business Loan|477000|2024-07-24|We should arrange a meeting that the revised contract terms are reviewed and accepted
+CUST021127|Medical Loan|981000|2024-09-18|Let me know if we could spend a lazy Sunday just binge-watching old shows
+CUST018881|Top-Up Loan|575000|2024-09-08|It would be awesome if we could go for a hike if the weather stays good
+CUST014902|Education Loan|209000|2024-07-18|It has been way too long since we could host a small get-together at my place this weekend
+CUST092861|Medical Loan|27000|2024-11-14|Maybe we can plan something we could hang out by the beach before it gets colder again
+CUST024794|Personal Loan|992000|2024-07-17|We seriously need to we could go for a hike if the weather stays good
+CUST057080|Top-Up Loan|838000|2024-12-20|It would be awesome if we could book tickets for that concert happening next month
+CUST099703|Auto Loan|319000|2024-10-24|You should definitely join we could spend a lazy Sunday just binge-watching old shows
+CUST067990|Personal Loan|600000|2025-03-07|Just wanted to say we could grab dinner sometime this week and catch up properly
+CUST001951|Credit Card Loan|988000|2025-01-14|Maybe we can plan something we could hang out by the beach before it gets colder again
+CUST087900|Loan Against Deposit|436000|2025-05-08|We should arrange a meeting that the scheduled timeline for the project remains unchanged
+CUST048791|Auto Loan|448000|2024-12-30|I am writing to follow up that the scheduled timeline for the project remains unchanged
+CUST092122|Credit Card Loan|10000|2024-10-24|I finally got time to we could go for a hike if the weather stays good
+CUST042892|Personal Loan|597000|2024-09-30|Thinking we should we could start working on that project idea we joked about earlier
+CUST030293|Loan Against Deposit|465000|2024-08-16|Thank you for your attention that all compliance requirements have been successfully met
+CUST047095|Business Loan|64000|2024-10-03|Thinking we should we could go for a hike if the weather stays good
+CUST073502|Credit Card Loan|275000|2025-01-21|We seriously need to we could go for a hike if the weather stays good
+CUST029890|Medical Loan|557000|2024-11-11|We should arrange a meeting that the invoice details are correctly reflected in your records
+CUST029558|Business Loan|552000|2024-10-20|Hey I was thinking we could spend a lazy Sunday just binge-watching old shows
+CUST018829|Travel Loan|963000|2025-05-03|I would like to inform you that your valuable feedback is shared with the broader management team
+CUST093311|Education Loan|420000|2024-10-28|You should definitely join we could hang out by the beach before it gets colder again
+CUST013461|Top-Up Loan|784000|2025-02-01|Let me know if we could go for a hike if the weather stays good
+CUST078528|Education Loan|477000|2025-01-12|The requested documents have been prepared and that your valuable feedback is shared with the broader management team
+CUST035030|Loan Against Deposit|683000|2024-08-12|Hey I was thinking we could start working on that project idea we joked about earlier
+CUST034296|Business Loan|841000|2025-01-30|Just wanted to say we could start working on that project idea we joked about earlier
+CUST000171|Travel Loan|69000|2025-03-03|Please do not hesitate to reach out that your comments are incorporated into the final version of the agreement
+CUST040874|Medical Loan|360000|2024-08-20|It has been way too long since we could grab dinner sometime this week and catch up properly
+CUST002111|Travel Loan|942000|2024-06-02|Just wanted to say we could hang out by the beach before it gets colder again
+CUST040084|Travel Loan|878000|2024-05-31|Thank you for your attention that the project deliverables are submitted by the upcoming deadline
+CUST077508|Education Loan|38000|2024-11-10|Kindly let me know that your valuable feedback is shared with the broader management team
+CUST065953|Education Loan|678000|2025-04-03|Hey I was thinking we could host a small get-together at my place this weekend
+CUST030108|Business Loan|785000|2025-01-19|Let me know if we could hang out by the beach before it gets colder again
+CUST048035|Personal Loan|340000|2024-08-12|It would be greatly appreciated if that your comments are incorporated into the final version of the agreement
+CUST002987|Credit Card Loan|254000|2024-09-15|You should definitely join we could go for a hike if the weather stays good
+CUST000249|Credit Card Loan|322000|2025-02-07|Maybe we can plan something we could book tickets for that concert happening next month
+CUST073473|Education Loan|414000|2024-06-13|Thank you for your attention that the revised contract terms are reviewed and accepted
+CUST008511|Loan Against Deposit|523000|2025-04-30|Hey I was thinking we could hang out by the beach before it gets colder again
+CUST095876|Business Loan|745000|2024-11-21|You should definitely join we could spend a lazy Sunday just binge-watching old shows
+CUST091961|Travel Loan|498000|2024-09-18|We seriously need to we could host a small get-together at my place this weekend
+CUST002643|Medical Loan|639000|2025-02-03|The requested documents have been prepared and that the updated policy guidelines have been distributed to all departments
+CUST085788|Business Loan|19000|2025-01-08|Maybe we can plan something we could go for a hike if the weather stays good
+CUST019058|Loan Against Deposit|303000|2025-01-05|Hey I was thinking we could try that new pizza place everyone keeps recommending
+CUST044410|Loan Against Deposit|464000|2024-09-04|Let me know if we could hang out by the beach before it gets colder again
+CUST061143|Personal Loan|357000|2024-12-16|Maybe we can plan something we could hang out by the beach before it gets colder again
+CUST065161|Top-Up Loan|547000|2024-09-03|It would be awesome if we could try that new pizza place everyone keeps recommending
+CUST044510|Credit Card Loan|762000|2024-07-31|It would be awesome if we could spend a lazy Sunday just binge-watching old shows
+CUST019772|Education Loan|318000|2024-10-28|Let me know if we could go for a hike if the weather stays good
+CUST027625|Auto Loan|618000|2025-01-03|I finally got time to we could try that new pizza place everyone keeps recommending
+CUST034462|Travel Loan|903000|2024-09-26|Hey I was thinking we could try that new pizza place everyone keeps recommending
+CUST036429|Business Loan|359000|2025-05-04|It has been way too long since we could grab dinner sometime this week and catch up properly
+CUST043800|Credit Card Loan|434000|2025-01-28|Please do not hesitate to reach out that the project deliverables are submitted by the upcoming deadline
+CUST002092|Business Loan|99000|2025-05-04|Thinking we should we could check out that new movie you mentioned last month
+CUST013990|Medical Loan|384000|2024-09-10|I am writing to follow up that we maintain open communication during the implementation period
+CUST048483|Home Loan|945000|2025-01-24|I would like to inform you that the scheduled timeline for the project remains unchanged
+CUST099788|Credit Card Loan|238000|2024-09-30|Maybe we can plan something we could start working on that project idea we joked about earlier
+CUST062737|Auto Loan|30000|2024-05-26|You should definitely join we could check out that new movie you mentioned last month
+CUST073027|Education Loan|96000|2024-06-12|Kindly let me know that there are no pending items before the closure of this phase
+CUST041530|Medical Loan|578000|2024-07-23|Please ensure that that your valuable feedback is shared with the broader management team
+CUST031057|Loan Against Deposit|516000|2025-03-18|Just wanted to say we could spend a lazy Sunday just binge-watching old shows
+CUST088414|Education Loan|635000|2025-04-02|You should definitely join we could go on a spontaneous road trip without much planning
+CUST035817|Personal Loan|579000|2024-06-24|Please ensure that that the project deliverables are submitted by the upcoming deadline
+CUST034969|Top-Up Loan|331000|2025-03-16|Maybe we can plan something we could hang out by the beach before it gets colder again
+CUST098651|Auto Loan|918000|2025-02-23|I finally got time to we could grab dinner sometime this week and catch up properly
+CUST055658|Top-Up Loan|198000|2024-12-01|Please do not hesitate to reach out that there are no pending items before the closure of this phase
+CUST054570|Auto Loan|10000|2025-03-29|Thinking we should we could book tickets for that concert happening next month
+CUST025914|Business Loan|140000|2025-02-25|I am writing to follow up that the revised contract terms are reviewed and accepted
+CUST018002|Loan Against Deposit|514000|2024-12-05|Just wanted to say we could go for a hike if the weather stays good
+CUST024978|Travel Loan|644000|2024-07-06|It would be awesome if we could grab dinner sometime this week and catch up properly
+CUST014306|Credit Card Loan|344000|2025-01-04|Please do not hesitate to reach out that there are no pending items before the closure of this phase
+CUST089953|Travel Loan|837000|2024-11-18|Maybe we can plan something we could try that new pizza place everyone keeps recommending
+CUST083032|Credit Card Loan|479000|2024-12-05|It has been way too long since we could start working on that project idea we joked about earlier
+CUST036911|Education Loan|53000|2025-05-06|I would like to inform you that the revised contract terms are reviewed and accepted
+CUST062501|Auto Loan|840000|2024-06-22|Let me know if we could try that new pizza place everyone keeps recommending
+CUST009229|Top-Up Loan|405000|2025-04-20|The requested documents have been prepared and that all compliance requirements have been successfully met
+CUST042202|Credit Card Loan|861000|2025-03-05|Let me know if we could hang out by the beach before it gets colder again
+CUST063981|Top-Up Loan|835000|2024-08-27|The requested documents have been prepared and that all compliance requirements have been successfully met
+CUST046155|Credit Card Loan|43000|2025-04-30|Please do not hesitate to reach out that the scheduled timeline for the project remains unchanged
+CUST003907|Business Loan|347000|2024-10-16|You should definitely join we could hang out by the beach before it gets colder again
+CUST041042|Business Loan|106000|2024-09-24|Please do not hesitate to reach out that the scheduled timeline for the project remains unchanged
+CUST080374|Loan Against Deposit|950000|2024-07-26|Kindly let me know that the updated policy guidelines have been distributed to all departments
+CUST020748|Credit Card Loan|676000|2025-02-28|Maybe we can plan something we could start working on that project idea we joked about earlier
+CUST011948|Education Loan|218000|2024-08-08|I finally got time to we could spend a lazy Sunday just binge-watching old shows
+CUST030572|Loan Against Deposit|859000|2024-07-04|It has been way too long since we could start working on that project idea we joked about earlier
+CUST027657|Education Loan|225000|2025-01-21|Just wanted to say we could go for a hike if the weather stays good
+CUST057466|Medical Loan|348000|2024-08-03|Hey I was thinking we could spend a lazy Sunday just binge-watching old shows
+CUST081918|Credit Card Loan|605000|2024-08-24|The requested documents have been prepared and that all compliance requirements have been successfully met
+CUST020054|Home Loan|65000|2024-06-14|Please ensure that that all compliance requirements have been successfully met
+CUST039904|Credit Card Loan|433000|2024-10-27|We seriously need to we could start working on that project idea we joked about earlier
+CUST014661|Medical Loan|685000|2024-09-05|Kindly let me know that the project deliverables are submitted by the upcoming deadline
+CUST022080|Personal Loan|634000|2024-09-23|Maybe we can plan something we could go for a hike if the weather stays good
+CUST043852|Medical Loan|612000|2025-05-07|I am writing to follow up that your valuable feedback is shared with the broader management team
+CUST027377|Home Loan|361000|2024-05-18|Kindly let me know that the invoice details are correctly reflected in your records
+CUST014902|Top-Up Loan|732000|2024-11-16|Just wanted to say we could book tickets for that concert happening next month
+CUST023589|Top-Up Loan|550000|2025-05-06|Kindly let me know that all compliance requirements have been successfully met
+CUST058898|Travel Loan|607000|2024-10-09|It would be greatly appreciated if that the project deliverables are submitted by the upcoming deadline
+CUST014690|Top-Up Loan|61000|2024-10-06|Let me know if we could go on a spontaneous road trip without much planning
+CUST036135|Top-Up Loan|38000|2025-05-01|It would be awesome if we could book tickets for that concert happening next month
+CUST013804|Travel Loan|462000|2024-11-14|You should definitely join we could grab dinner sometime this week and catch up properly
+CUST033003|Medical Loan|936000|2024-07-01|The requested documents have been prepared and that the project deliverables are submitted by the upcoming deadline
+CUST031344|Travel Loan|349000|2025-03-05|The requested documents have been prepared and that the scheduled timeline for the project remains unchanged
+CUST087779|Medical Loan|814000|2025-04-23|Maybe we can plan something we could go for a hike if the weather stays good
+CUST032040|Auto Loan|22000|2024-10-11|I am writing to follow up that the updated policy guidelines have been distributed to all departments
+CUST067297|Business Loan|973000|2024-05-10|The requested documents have been prepared and that we maintain open communication during the implementation period
+CUST011807|Credit Card Loan|876000|2024-10-26|The requested documents have been prepared and that the invoice details are correctly reflected in your records
+CUST024261|Credit Card Loan|268000|2024-09-02|The requested documents have been prepared and that all compliance requirements have been successfully met
+CUST074662|Loan Against Deposit|398000|2024-08-05|I finally got time to we could start working on that project idea we joked about earlier
+CUST074916|Top-Up Loan|98000|2024-07-21|The requested documents have been prepared and that the invoice details are correctly reflected in your records
+CUST090865|Credit Card Loan|361000|2025-01-20|Just wanted to say we could start working on that project idea we joked about earlier
+CUST021981|Credit Card Loan|525000|2024-06-17|Please do not hesitate to reach out that the project deliverables are submitted by the upcoming deadline
+CUST019126|Medical Loan|114000|2024-11-26|Thinking we should we could go on a spontaneous road trip without much planning
+CUST032554|Business Loan|48000|2024-12-16|Just wanted to say we could go for a hike if the weather stays good
+CUST051340|Top-Up Loan|140000|2024-09-17|I am writing to follow up that your valuable feedback is shared with the broader management team
+CUST083646|Business Loan|538000|2024-12-04|I am writing to follow up that there are no pending items before the closure of this phase
+CUST012784|Home Loan|506000|2024-12-16|I am writing to follow up that the scheduled timeline for the project remains unchanged
+CUST035557|Loan Against Deposit|369000|2025-02-01|It would be awesome if we could book tickets for that concert happening next month
+CUST084917|Education Loan|958000|2024-08-05|Please do not hesitate to reach out that the revised contract terms are reviewed and accepted
+CUST076257|Top-Up Loan|186000|2025-04-20|Kindly let me know that there are no pending items before the closure of this phase
+CUST025500|Top-Up Loan|351000|2024-07-12|I would like to inform you that all compliance requirements have been successfully met
+CUST050793|Personal Loan|69000|2024-10-07|It would be awesome if we could book tickets for that concert happening next month
+CUST054228|Travel Loan|507000|2025-04-12|We should arrange a meeting that the revised contract terms are reviewed and accepted
+CUST064628|Business Loan|327000|2024-06-06|I would like to inform you that there are no pending items before the closure of this phase
+CUST055838|Travel Loan|546000|2024-07-12|Kindly let me know that your valuable feedback is shared with the broader management team
+CUST080055|Home Loan|849000|2025-04-11|Maybe we can plan something we could hang out by the beach before it gets colder again
+CUST073416|Loan Against Deposit|755000|2024-11-02|The requested documents have been prepared and that the revised contract terms are reviewed and accepted
+CUST060019|Loan Against Deposit|792000|2025-03-01|I am writing to follow up that the scheduled timeline for the project remains unchanged
+CUST050916|Top-Up Loan|376000|2024-08-31|Thinking we should we could hang out by the beach before it gets colder again
+CUST007087|Auto Loan|549000|2024-12-14|I finally got time to we could start working on that project idea we joked about earlier
+CUST013202|Credit Card Loan|976000|2024-08-03|The requested documents have been prepared and that the invoice details are correctly reflected in your records
+CUST004253|Business Loan|649000|2024-12-23|Just wanted to say we could grab dinner sometime this week and catch up properly
+CUST080688|Travel Loan|485000|2024-10-20|We should arrange a meeting that there are no pending items before the closure of this phase
+CUST053219|Auto Loan|788000|2024-12-07|Thank you for your attention that there are no pending items before the closure of this phase
+CUST033350|Business Loan|614000|2024-10-03|Hey I was thinking we could book tickets for that concert happening next month
+CUST011740|Auto Loan|276000|2024-11-30|I would like to inform you that the scheduled timeline for the project remains unchanged
+CUST090233|Credit Card Loan|687000|2024-11-17|The requested documents have been prepared and that the updated policy guidelines have been distributed to all departments
+CUST026281|Personal Loan|820000|2025-04-03|Maybe we can plan something we could check out that new movie you mentioned last month
+CUST025246|Education Loan|721000|2024-07-30|We are awaiting your confirmation that there are no pending items before the closure of this phase
+CUST088164|Top-Up Loan|612000|2024-12-07|Maybe we can plan something we could book tickets for that concert happening next month
+CUST066878|Credit Card Loan|307000|2024-07-13|Thank you for your attention that there are no pending items before the closure of this phase
+CUST018714|Top-Up Loan|986000|2024-08-17|We are awaiting your confirmation that there are no pending items before the closure of this phase
+CUST052530|Business Loan|831000|2024-10-23|The requested documents have been prepared and that the project deliverables are submitted by the upcoming deadline
+CUST063613|Business Loan|463000|2025-04-10|We are awaiting your confirmation that your comments are incorporated into the final version of the agreement
+CUST044756|Personal Loan|473000|2024-08-07|Thinking we should we could check out that new movie you mentioned last month
+CUST033029|Personal Loan|223000|2024-09-18|We are awaiting your confirmation that your comments are incorporated into the final version of the agreement
+CUST078955|Personal Loan|850000|2024-06-03|I am writing to follow up that the invoice details are correctly reflected in your records
+CUST045036|Loan Against Deposit|502000|2025-05-01|It would be awesome if we could go for a hike if the weather stays good
+CUST044444|Credit Card Loan|618000|2024-07-20|It would be awesome if we could go on a spontaneous road trip without much planning
+CUST089430|Credit Card Loan|793000|2024-06-10|Thinking we should we could hang out by the beach before it gets colder again
+CUST017028|Education Loan|321000|2025-02-01|The requested documents have been prepared and that your valuable feedback is shared with the broader management team
+CUST015036|Medical Loan|74000|2024-06-15|Thank you for your attention that there are no pending items before the closure of this phase
+CUST093832|Travel Loan|616000|2024-12-04|Please do not hesitate to reach out that the updated policy guidelines have been distributed to all departments
+CUST013824|Auto Loan|683000|2025-02-09|I would like to inform you that the project deliverables are submitted by the upcoming deadline
+CUST096560|Personal Loan|13000|2024-06-15|It would be greatly appreciated if that the project deliverables are submitted by the upcoming deadline
+CUST050293|Auto Loan|732000|2024-11-02|Thank you for your attention that the invoice details are correctly reflected in your records
+CUST064994|Loan Against Deposit|659000|2025-02-24|The requested documents have been prepared and that there are no pending items before the closure of this phase
+CUST024738|Top-Up Loan|930000|2024-07-17|I finally got time to we could start working on that project idea we joked about earlier
+CUST012799|Top-Up Loan|826000|2024-11-25|Please ensure that that the project deliverables are submitted by the upcoming deadline
+CUST032659|Education Loan|104000|2025-04-03|Let me know if we could start working on that project idea we joked about earlier
+CUST066201|Travel Loan|362000|2024-12-31|Please ensure that that the updated policy guidelines have been distributed to all departments
+CUST031858|Personal Loan|168000|2025-01-12|Let me know if we could try that new pizza place everyone keeps recommending
+CUST071660|Auto Loan|485000|2025-03-14|Thinking we should we could go on a spontaneous road trip without much planning
+CUST051813|Loan Against Deposit|559000|2024-10-16|Please ensure that that the invoice details are correctly reflected in your records
+CUST012638|Auto Loan|634000|2024-12-25|Let me know if we could try that new pizza place everyone keeps recommending
+CUST043626|Top-Up Loan|280000|2024-08-05|I am writing to follow up that your comments are incorporated into the final version of the agreement
+CUST020860|Medical Loan|640000|2024-11-09|Please do not hesitate to reach out that the project deliverables are submitted by the upcoming deadline
+CUST040074|Business Loan|971000|2025-03-13|We are awaiting your confirmation that the updated policy guidelines have been distributed to all departments
+CUST065985|Medical Loan|436000|2024-07-29|Thinking we should we could hang out by the beach before it gets colder again
+CUST044275|Business Loan|511000|2025-04-23|It would be awesome if we could go on a spontaneous road trip without much planning
+CUST005595|Auto Loan|302000|2024-08-14|I am writing to follow up that the project deliverables are submitted by the upcoming deadline
+CUST077022|Home Loan|483000|2025-01-28|Please ensure that that the invoice details are correctly reflected in your records
+CUST081110|Education Loan|549000|2025-02-02|I am writing to follow up that the project deliverables are submitted by the upcoming deadline
+CUST060880|Medical Loan|788000|2025-01-27|The requested documents have been prepared and that the scheduled timeline for the project remains unchanged
+CUST073786|Travel Loan|614000|2025-01-08|Please do not hesitate to reach out that your valuable feedback is shared with the broader management team
+CUST044177|Auto Loan|291000|2024-06-02|I would like to inform you that your valuable feedback is shared with the broader management team
+CUST061660|Auto Loan|300000|2025-01-17|Let me know if we could hang out by the beach before it gets colder again
+CUST042825|Education Loan|984000|2025-04-11|You should definitely join we could go on a spontaneous road trip without much planning
+CUST069958|Credit Card Loan|613000|2025-04-04|Kindly let me know that the revised contract terms are reviewed and accepted
+CUST010980|Top-Up Loan|755000|2024-10-10|Just wanted to say we could go on a spontaneous road trip without much planning
+CUST009736|Top-Up Loan|818000|2024-12-05|It has been way too long since we could book tickets for that concert happening next month
+CUST083165|Auto Loan|427000|2024-08-22|Kindly let me know that the revised contract terms are reviewed and accepted
+CUST057174|Medical Loan|638000|2025-02-13|It would be greatly appreciated if that the scheduled timeline for the project remains unchanged
+CUST038076|Business Loan|619000|2025-04-22|I am writing to follow up that the updated policy guidelines have been distributed to all departments
+CUST065496|Travel Loan|144000|2024-10-09|The requested documents have been prepared and that all compliance requirements have been successfully met
+CUST035300|Top-Up Loan|885000|2024-08-05|Kindly let me know that there are no pending items before the closure of this phase
+CUST083965|Personal Loan|293000|2024-07-05|We should arrange a meeting that the invoice details are correctly reflected in your records
+CUST079577|Business Loan|573000|2024-07-30|Please ensure that that your valuable feedback is shared with the broader management team
+CUST058384|Education Loan|567000|2025-04-04|Kindly let me know that the updated policy guidelines have been distributed to all departments
+CUST090152|Business Loan|624000|2024-11-12|Maybe we can plan something we could hang out by the beach before it gets colder again
+CUST061487|Business Loan|943000|2025-02-04|Just wanted to say we could spend a lazy Sunday just binge-watching old shows
+CUST048903|Personal Loan|837000|2025-03-30|It would be greatly appreciated if that the scheduled timeline for the project remains unchanged
+CUST034371|Credit Card Loan|161000|2025-03-05|You should definitely join we could check out that new movie you mentioned last month
+CUST044692|Auto Loan|173000|2024-10-18|Thinking we should we could host a small get-together at my place this weekend
+CUST058781|Travel Loan|126000|2025-02-20|Just wanted to say we could go for a hike if the weather stays good
+CUST086108|Business Loan|489000|2024-06-11|Thinking we should we could check out that new movie you mentioned last month
+CUST029647|Travel Loan|132000|2025-05-01|Kindly let me know that your valuable feedback is shared with the broader management team
+CUST029831|Home Loan|777000|2024-08-20|Thinking we should we could start working on that project idea we joked about earlier
+CUST098769|Medical Loan|762000|2025-01-08|Maybe we can plan something we could check out that new movie you mentioned last month
+CUST030468|Personal Loan|889000|2024-11-28|Just wanted to say we could go on a spontaneous road trip without much planning
+CUST089049|Top-Up Loan|947000|2024-12-16|It would be awesome if we could start working on that project idea we joked about earlier
+CUST076908|Education Loan|844000|2025-01-25|We are awaiting your confirmation that your comments are incorporated into the final version of the agreement
+CUST047538|Home Loan|695000|2025-03-27|It has been way too long since we could spend a lazy Sunday just binge-watching old shows
+CUST094680|Travel Loan|563000|2024-11-28|It would be awesome if we could spend a lazy Sunday just binge-watching old shows
+CUST065655|Travel Loan|62000|2025-03-22|Thank you for your attention that your comments are incorporated into the final version of the agreement
+CUST034100|Business Loan|473000|2024-12-18|Let me know if we could try that new pizza place everyone keeps recommending
+CUST030203|Home Loan|866000|2024-11-20|You should definitely join we could check out that new movie you mentioned last month
+CUST056054|Personal Loan|599000|2024-09-16|I am writing to follow up that the project deliverables are submitted by the upcoming deadline
+CUST017595|Education Loan|541000|2024-11-15|Please ensure that that your comments are incorporated into the final version of the agreement
+CUST018906|Travel Loan|435000|2024-09-29|Maybe we can plan something we could try that new pizza place everyone keeps recommending
+CUST087292|Credit Card Loan|992000|2024-05-14|Thank you for your attention that all compliance requirements have been successfully met
+CUST031599|Home Loan|896000|2024-08-01|Thinking we should we could check out that new movie you mentioned last month
+CUST080771|Medical Loan|239000|2025-03-22|Let me know if we could go for a hike if the weather stays good
+CUST003337|Auto Loan|471000|2024-07-21|We should arrange a meeting that the scheduled timeline for the project remains unchanged
+CUST085970|Home Loan|730000|2024-06-22|I would like to inform you that the project deliverables are submitted by the upcoming deadline
+CUST059174|Loan Against Deposit|969000|2024-07-24|It would be greatly appreciated if that the project deliverables are submitted by the upcoming deadline
+CUST035318|Home Loan|496000|2025-03-05|You should definitely join we could grab dinner sometime this week and catch up properly
+CUST042815|Top-Up Loan|152000|2025-03-09|We should arrange a meeting that the revised contract terms are reviewed and accepted
+CUST020324|Business Loan|650000|2024-09-04|You should definitely join we could book tickets for that concert happening next month
+CUST072653|Personal Loan|938000|2024-12-17|It would be awesome if we could try that new pizza place everyone keeps recommending
+CUST071801|Home Loan|831000|2024-05-16|The requested documents have been prepared and that all compliance requirements have been successfully met
+CUST025113|Top-Up Loan|142000|2024-06-27|Please ensure that that your valuable feedback is shared with the broader management team
+CUST063182|Education Loan|742000|2024-09-15|I am writing to follow up that the project deliverables are submitted by the upcoming deadline
+CUST007191|Education Loan|963000|2025-02-24|Hey I was thinking we could hang out by the beach before it gets colder again
+CUST093189|Medical Loan|198000|2025-04-25|Please do not hesitate to reach out that the project deliverables are submitted by the upcoming deadline
+CUST093680|Education Loan|178000|2024-09-19|I would like to inform you that we maintain open communication during the implementation period
+CUST065023|Top-Up Loan|851000|2024-07-24|We seriously need to we could host a small get-together at my place this weekend
+CUST095338|Medical Loan|551000|2025-02-06|Thank you for your attention that your valuable feedback is shared with the broader management team
+CUST026217|Travel Loan|133000|2024-11-29|Thinking we should we could go for a hike if the weather stays good
+CUST005897|Education Loan|221000|2025-03-25|Hey I was thinking we could go for a hike if the weather stays good
+CUST089588|Medical Loan|518000|2025-02-28|The requested documents have been prepared and that we maintain open communication during the implementation period
+CUST072445|Auto Loan|433000|2025-02-17|Thank you for your attention that there are no pending items before the closure of this phase
+CUST079110|Loan Against Deposit|819000|2024-09-02|Just wanted to say we could go for a hike if the weather stays good
+CUST002725|Personal Loan|184000|2024-07-30|I would like to inform you that the updated policy guidelines have been distributed to all departments
+CUST022208|Education Loan|364000|2025-04-10|Thinking we should we could host a small get-together at my place this weekend
+CUST016845|Loan Against Deposit|209000|2025-02-16|We are awaiting your confirmation that the scheduled timeline for the project remains unchanged
+CUST070274|Home Loan|653000|2024-12-29|It would be greatly appreciated if that we maintain open communication during the implementation period
+CUST082968|Travel Loan|525000|2025-03-01|We are awaiting your confirmation that the scheduled timeline for the project remains unchanged
+CUST056811|Home Loan|313000|2024-10-25|You should definitely join we could try that new pizza place everyone keeps recommending
+CUST033429|Business Loan|91000|2024-05-16|Thinking we should we could hang out by the beach before it gets colder again
+CUST007084|Home Loan|726000|2024-05-17|We are awaiting your confirmation that your valuable feedback is shared with the broader management team
+CUST062278|Top-Up Loan|601000|2025-01-20|I am writing to follow up that all compliance requirements have been successfully met
+CUST078460|Credit Card Loan|361000|2025-04-02|We are awaiting your confirmation that your valuable feedback is shared with the broader management team
+CUST020202|Loan Against Deposit|580000|2025-04-23|Thinking we should we could go on a spontaneous road trip without much planning
+CUST077894|Education Loan|78000|2024-06-17|We seriously need to we could spend a lazy Sunday just binge-watching old shows
+CUST070690|Personal Loan|686000|2024-05-16|Just wanted to say we could go on a spontaneous road trip without much planning
+CUST076434|Medical Loan|874000|2024-07-17|The requested documents have been prepared and that we maintain open communication during the implementation period
+CUST085561|Personal Loan|493000|2024-11-30|It would be greatly appreciated if that we maintain open communication during the implementation period
+CUST007819|Education Loan|437000|2024-11-17|Maybe we can plan something we could start working on that project idea we joked about earlier
+CUST036998|Travel Loan|700000|2025-01-13|Thinking we should we could try that new pizza place everyone keeps recommending
+CUST079995|Education Loan|706000|2024-07-18|We should arrange a meeting that the scheduled timeline for the project remains unchanged
+CUST010787|Home Loan|112000|2025-01-22|We are awaiting your confirmation that the project deliverables are submitted by the upcoming deadline
+CUST066637|Education Loan|128000|2025-02-08|Please ensure that that the invoice details are correctly reflected in your records
+CUST012311|Education Loan|232000|2024-07-22|We are awaiting your confirmation that the scheduled timeline for the project remains unchanged
+CUST091991|Education Loan|589000|2024-05-10|Thinking we should we could check out that new movie you mentioned last month
+CUST096294|Loan Against Deposit|243000|2024-12-26|Kindly let me know that we maintain open communication during the implementation period
+CUST012378|Auto Loan|55000|2024-10-17|Kindly let me know that we maintain open communication during the implementation period
+CUST078187|Education Loan|874000|2025-01-14|It would be greatly appreciated if that the invoice details are correctly reflected in your records
+CUST001789|Home Loan|336000|2024-10-09|We are awaiting your confirmation that there are no pending items before the closure of this phase
+CUST069753|Loan Against Deposit|507000|2024-06-23|Please ensure that that the scheduled timeline for the project remains unchanged
+CUST091820|Auto Loan|785000|2024-08-09|The requested documents have been prepared and that the project deliverables are submitted by the upcoming deadline
+CUST016404|Home Loan|347000|2024-09-27|Please ensure that that all compliance requirements have been successfully met
+CUST075791|Medical Loan|679000|2024-06-07|Just wanted to say we could spend a lazy Sunday just binge-watching old shows
+CUST070171|Auto Loan|958000|2025-01-25|Maybe we can plan something we could grab dinner sometime this week and catch up properly
+CUST023767|Home Loan|331000|2025-03-21|Please do not hesitate to reach out that your comments are incorporated into the final version of the agreement
+CUST078690|Loan Against Deposit|902000|2024-12-10|Thinking we should we could go on a spontaneous road trip without much planning
+CUST000358|Business Loan|370000|2025-03-12|You should definitely join we could try that new pizza place everyone keeps recommending
+CUST008350|Medical Loan|576000|2024-10-18|It would be greatly appreciated if that the updated policy guidelines have been distributed to all departments
+CUST043664|Travel Loan|452000|2024-08-12|Please do not hesitate to reach out that there are no pending items before the closure of this phase
+CUST028378|Education Loan|410000|2025-01-07|We should arrange a meeting that there are no pending items before the closure of this phase
+CUST002987|Business Loan|80000|2025-01-14|We seriously need to we could host a small get-together at my place this weekend
+CUST055490|Credit Card Loan|419000|2024-11-17|The requested documents have been prepared and that the invoice details are correctly reflected in your records
+CUST006260|Top-Up Loan|914000|2025-01-17|You should definitely join we could grab dinner sometime this week and catch up properly
+CUST040741|Travel Loan|487000|2024-06-02|We seriously need to we could go for a hike if the weather stays good
+CUST091278|Personal Loan|839000|2024-07-14|We should arrange a meeting that the updated policy guidelines have been distributed to all departments
+CUST045379|Top-Up Loan|120000|2025-01-17|Maybe we can plan something we could check out that new movie you mentioned last month
+CUST015720|Education Loan|384000|2025-01-17|I would like to inform you that the updated policy guidelines have been distributed to all departments
+CUST031063|Education Loan|961000|2024-06-04|Thinking we should we could book tickets for that concert happening next month
+CUST019904|Medical Loan|858000|2025-03-21|You should definitely join we could hang out by the beach before it gets colder again
+CUST069618|Education Loan|885000|2025-03-20|It has been way too long since we could go for a hike if the weather stays good
+CUST012168|Auto Loan|598000|2024-09-29|The requested documents have been prepared and that we maintain open communication during the implementation period
+CUST025150|Top-Up Loan|134000|2025-05-06|You should definitely join we could go on a spontaneous road trip without much planning
+CUST068353|Home Loan|151000|2024-08-15|Thinking we should we could book tickets for that concert happening next month
+CUST039862|Auto Loan|495000|2024-09-09|Please ensure that that the invoice details are correctly reflected in your records
+CUST028399|Medical Loan|159000|2024-05-12|It has been way too long since we could check out that new movie you mentioned last month
+CUST068957|Business Loan|927000|2024-10-31|We should arrange a meeting that the updated policy guidelines have been distributed to all departments
+CUST070954|Education Loan|732000|2024-07-26|Hey I was thinking we could try that new pizza place everyone keeps recommending
+CUST024767|Medical Loan|325000|2024-08-01|Hey I was thinking we could go on a spontaneous road trip without much planning
+CUST098882|Top-Up Loan|645000|2025-04-17|Maybe we can plan something we could go on a spontaneous road trip without much planning
+CUST064098|Loan Against Deposit|131000|2024-09-13|Let me know if we could hang out by the beach before it gets colder again
+CUST074219|Medical Loan|117000|2025-01-29|Please do not hesitate to reach out that the revised contract terms are reviewed and accepted
+CUST078482|Top-Up Loan|85000|2024-10-23|The requested documents have been prepared and that the project deliverables are submitted by the upcoming deadline
+CUST006254|Top-Up Loan|606000|2024-08-24|Let me know if we could go for a hike if the weather stays good
+CUST080222|Loan Against Deposit|169000|2024-10-21|Please ensure that that your comments are incorporated into the final version of the agreement
+CUST005440|Medical Loan|463000|2024-06-03|Please ensure that that there are no pending items before the closure of this phase
+CUST075011|Auto Loan|70000|2025-03-26|It has been way too long since we could spend a lazy Sunday just binge-watching old shows
+CUST053645|Personal Loan|697000|2025-02-12|We should arrange a meeting that the revised contract terms are reviewed and accepted
+CUST065938|Loan Against Deposit|239000|2024-06-01|I finally got time to we could hang out by the beach before it gets colder again
+CUST048945|Home Loan|532000|2025-01-27|Please ensure that that the project deliverables are submitted by the upcoming deadline
+CUST053482|Home Loan|667000|2024-08-29|Thank you for your attention that the project deliverables are submitted by the upcoming deadline
+CUST069009|Education Loan|560000|2025-02-01|Hey I was thinking we could go for a hike if the weather stays good
+CUST069004|Travel Loan|473000|2024-08-01|Maybe we can plan something we could book tickets for that concert happening next month
+CUST034437|Business Loan|632000|2025-03-14|Please ensure that that there are no pending items before the closure of this phase
+CUST074244|Loan Against Deposit|201000|2025-02-26|You should definitely join we could hang out by the beach before it gets colder again
+CUST072961|Top-Up Loan|292000|2025-04-18|I would like to inform you that the invoice details are correctly reflected in your records
+CUST057364|Medical Loan|124000|2024-09-06|We seriously need to we could go for a hike if the weather stays good
+CUST089314|Personal Loan|962000|2025-03-11|We seriously need to we could check out that new movie you mentioned last month
+CUST018023|Personal Loan|970000|2024-08-11|You should definitely join we could start working on that project idea we joked about earlier
+CUST042508|Home Loan|890000|2024-05-23|We should arrange a meeting that the scheduled timeline for the project remains unchanged
+CUST003329|Auto Loan|697000|2024-09-30|I would like to inform you that your comments are incorporated into the final version of the agreement
+CUST073813|Business Loan|274000|2024-11-13|I would like to inform you that the revised contract terms are reviewed and accepted
+CUST083349|Home Loan|977000|2024-08-30|It would be awesome if we could go for a hike if the weather stays good
+CUST037669|Personal Loan|969000|2024-10-24|Let me know if we could grab dinner sometime this week and catch up properly
+CUST076379|Loan Against Deposit|734000|2024-11-12|Kindly let me know that the invoice details are correctly reflected in your records
+CUST006083|Home Loan|169000|2024-06-05|Thinking we should we could book tickets for that concert happening next month
+CUST065249|Home Loan|352000|2025-01-15|I finally got time to we could start working on that project idea we joked about earlier
+CUST083777|Credit Card Loan|636000|2024-07-12|Hey I was thinking we could go for a hike if the weather stays good
+CUST046325|Business Loan|125000|2024-06-28|Please ensure that that the project deliverables are submitted by the upcoming deadline
+CUST025734|Auto Loan|22000|2024-07-01|It would be awesome if we could go on a spontaneous road trip without much planning
+CUST008307|Medical Loan|639000|2024-06-29|Let me know if we could go for a hike if the weather stays good
+CUST058857|Travel Loan|861000|2024-09-21|Please do not hesitate to reach out that all compliance requirements have been successfully met
+CUST080872|Top-Up Loan|639000|2024-08-13|We are awaiting your confirmation that the scheduled timeline for the project remains unchanged
+CUST043786|Home Loan|223000|2024-10-11|Just wanted to say we could book tickets for that concert happening next month
+CUST039692|Credit Card Loan|86000|2024-11-25|We seriously need to we could check out that new movie you mentioned last month
+CUST095747|Education Loan|200000|2025-04-12|I am writing to follow up that the updated policy guidelines have been distributed to all departments
+CUST077134|Business Loan|569000|2024-05-18|It has been way too long since we could start working on that project idea we joked about earlier
+CUST076168|Auto Loan|626000|2024-07-11|Maybe we can plan something we could check out that new movie you mentioned last month
+CUST055979|Home Loan|855000|2025-02-03|Let me know if we could check out that new movie you mentioned last month
+CUST012455|Education Loan|193000|2025-04-30|I am writing to follow up that we maintain open communication during the implementation period
+CUST012574|Loan Against Deposit|699000|2025-04-20|Thank you for your attention that your comments are incorporated into the final version of the agreement
+CUST014193|Top-Up Loan|930000|2025-03-27|Thank you for your attention that we maintain open communication during the implementation period
+CUST093787|Education Loan|442000|2025-03-02|Thinking we should we could grab dinner sometime this week and catch up properly
+CUST020110|Medical Loan|19000|2025-03-11|I would like to inform you that the updated policy guidelines have been distributed to all departments
+CUST076041|Personal Loan|194000|2024-06-18|We should arrange a meeting that the revised contract terms are reviewed and accepted
+CUST042861|Home Loan|992000|2025-02-21|Kindly let me know that the revised contract terms are reviewed and accepted
+CUST031888|Personal Loan|320000|2025-01-05|Let me know if we could book tickets for that concert happening next month
+CUST017198|Loan Against Deposit|176000|2025-02-15|It has been way too long since we could grab dinner sometime this week and catch up properly
+CUST072610|Education Loan|553000|2024-07-28|We should arrange a meeting that the scheduled timeline for the project remains unchanged
+CUST087505|Personal Loan|526000|2024-10-18|Just wanted to say we could go on a spontaneous road trip without much planning
+CUST064978|Business Loan|944000|2025-01-04|The requested documents have been prepared and that your comments are incorporated into the final version of the agreement
+CUST060399|Education Loan|522000|2025-01-11|Let me know if we could hang out by the beach before it gets colder again
+CUST053715|Top-Up Loan|320000|2024-10-27|You should definitely join we could check out that new movie you mentioned last month
+CUST025182|Loan Against Deposit|438000|2024-06-08|We should arrange a meeting that the project deliverables are submitted by the upcoming deadline
+CUST065013|Top-Up Loan|219000|2024-07-14|Thank you for your attention that the revised contract terms are reviewed and accepted
+CUST009047|Top-Up Loan|253000|2024-12-17|Thank you for your attention that the updated policy guidelines have been distributed to all departments
+CUST053159|Medical Loan|766000|2025-03-22|It would be awesome if we could book tickets for that concert happening next month
+CUST057428|Loan Against Deposit|311000|2025-02-19|Hey I was thinking we could check out that new movie you mentioned last month
+CUST078625|Top-Up Loan|697000|2024-09-21|Just wanted to say we could book tickets for that concert happening next month
+CUST011479|Business Loan|302000|2024-07-30|Let me know if we could go for a hike if the weather stays good
+CUST057225|Personal Loan|890000|2025-03-05|It would be greatly appreciated if that the scheduled timeline for the project remains unchanged
+CUST072152|Auto Loan|576000|2024-08-27|The requested documents have been prepared and that your valuable feedback is shared with the broader management team
+CUST043352|Travel Loan|989000|2024-11-08|I finally got time to we could grab dinner sometime this week and catch up properly
+CUST064309|Loan Against Deposit|715000|2024-05-17|Let me know if we could try that new pizza place everyone keeps recommending
+CUST025568|Education Loan|540000|2025-05-03|Just wanted to say we could spend a lazy Sunday just binge-watching old shows
+CUST053003|Medical Loan|458000|2025-03-22|We should arrange a meeting that the revised contract terms are reviewed and accepted
+CUST046122|Top-Up Loan|10000|2024-06-09|You should definitely join we could go on a spontaneous road trip without much planning
+CUST011364|Travel Loan|212000|2025-03-26|Please ensure that that the invoice details are correctly reflected in your records
+CUST021915|Education Loan|386000|2024-11-16|Hey I was thinking we could go on a spontaneous road trip without much planning
+CUST033960|Travel Loan|248000|2024-11-06|Let me know if we could hang out by the beach before it gets colder again
+CUST024181|Education Loan|602000|2025-01-08|The requested documents have been prepared and that the project deliverables are submitted by the upcoming deadline
+CUST070425|Home Loan|670000|2024-11-13|I finally got time to we could book tickets for that concert happening next month
+CUST024897|Personal Loan|470000|2025-01-24|Please do not hesitate to reach out that your comments are incorporated into the final version of the agreement
+CUST094099|Education Loan|308000|2025-04-09|Thank you for your attention that your comments are incorporated into the final version of the agreement
+CUST047503|Medical Loan|154000|2024-09-06|We seriously need to we could start working on that project idea we joked about earlier
+CUST084564|Education Loan|906000|2024-09-25|Let me know if we could hang out by the beach before it gets colder again
+CUST002449|Travel Loan|554000|2024-11-01|I would like to inform you that the revised contract terms are reviewed and accepted
+CUST044203|Medical Loan|31000|2024-11-27|I would like to inform you that the updated policy guidelines have been distributed to all departments
+CUST061750|Auto Loan|145000|2025-02-28|Please do not hesitate to reach out that we maintain open communication during the implementation period
+CUST080890|Loan Against Deposit|134000|2024-07-04|Please ensure that that we maintain open communication during the implementation period
+CUST057774|Credit Card Loan|547000|2024-07-24|Thinking we should we could hang out by the beach before it gets colder again
+CUST035373|Medical Loan|451000|2024-08-15|Let me know if we could spend a lazy Sunday just binge-watching old shows
+CUST016415|Credit Card Loan|359000|2024-06-26|We should arrange a meeting that the updated policy guidelines have been distributed to all departments
+CUST075775|Travel Loan|907000|2024-11-22|I am writing to follow up that the project deliverables are submitted by the upcoming deadline
+CUST055762|Credit Card Loan|833000|2025-02-25|You should definitely join we could grab dinner sometime this week and catch up properly
+CUST001839|Top-Up Loan|199000|2024-11-19|Let me know if we could go for a hike if the weather stays good
+CUST022651|Medical Loan|112000|2025-04-05|We are awaiting your confirmation that there are no pending items before the closure of this phase
+CUST089769|Home Loan|461000|2025-02-03|Let me know if we could go for a hike if the weather stays good
+CUST042503|Top-Up Loan|303000|2024-12-01|Let me know if we could spend a lazy Sunday just binge-watching old shows
+CUST090803|Medical Loan|647000|2024-05-27|Please ensure that that your comments are incorporated into the final version of the agreement
+CUST059637|Home Loan|777000|2025-01-03|Thinking we should we could go on a spontaneous road trip without much planning
+CUST000764|Education Loan|883000|2024-07-02|The requested documents have been prepared and that the project deliverables are submitted by the upcoming deadline
+CUST063406|Auto Loan|693000|2025-03-12|Thinking we should we could book tickets for that concert happening next month
+CUST080786|Auto Loan|28000|2024-12-31|Please ensure that that your comments are incorporated into the final version of the agreement
+CUST001262|Loan Against Deposit|824000|2025-01-08|I would like to inform you that we maintain open communication during the implementation period
+CUST039799|Top-Up Loan|95000|2024-07-09|Please do not hesitate to reach out that the revised contract terms are reviewed and accepted
+CUST063116|Auto Loan|762000|2024-11-03|Just wanted to say we could go for a hike if the weather stays good
+CUST055345|Loan Against Deposit|524000|2024-06-05|Let me know if we could hang out by the beach before it gets colder again
+CUST023647|Personal Loan|681000|2024-12-04|It would be awesome if we could check out that new movie you mentioned last month
+CUST096479|Business Loan|94000|2025-02-23|It would be awesome if we could check out that new movie you mentioned last month
+CUST060917|Education Loan|106000|2024-10-19|It would be greatly appreciated if that your valuable feedback is shared with the broader management team
+CUST025675|Loan Against Deposit|734000|2024-11-27|Please ensure that that your valuable feedback is shared with the broader management team
+CUST029286|Business Loan|615000|2024-12-10|It would be awesome if we could hang out by the beach before it gets colder again
+CUST051606|Education Loan|806000|2024-05-14|Please do not hesitate to reach out that the project deliverables are submitted by the upcoming deadline
+CUST087038|Travel Loan|990000|2025-02-27|You should definitely join we could spend a lazy Sunday just binge-watching old shows
+CUST055048|Top-Up Loan|230000|2024-12-23|You should definitely join we could go on a spontaneous road trip without much planning
+CUST030463|Top-Up Loan|150000|2024-11-21|Maybe we can plan something we could book tickets for that concert happening next month
+CUST008544|Medical Loan|118000|2025-04-11|Please do not hesitate to reach out that the updated policy guidelines have been distributed to all departments
+CUST082620|Home Loan|704000|2024-08-04|I am writing to follow up that the project deliverables are submitted by the upcoming deadline
+CUST065087|Personal Loan|191000|2024-06-30|The requested documents have been prepared and that the invoice details are correctly reflected in your records
+CUST037318|Auto Loan|916000|2024-08-29|I am writing to follow up that your comments are incorporated into the final version of the agreement
+CUST081416|Home Loan|810000|2025-01-02|We seriously need to we could spend a lazy Sunday just binge-watching old shows
+CUST093838|Education Loan|508000|2024-05-08|Maybe we can plan something we could go for a hike if the weather stays good
+CUST018261|Credit Card Loan|678000|2024-08-12|We seriously need to we could check out that new movie you mentioned last month
+CUST042491|Personal Loan|380000|2025-03-02|Please do not hesitate to reach out that your comments are incorporated into the final version of the agreement
+CUST071394|Education Loan|88000|2024-12-14|It has been way too long since we could try that new pizza place everyone keeps recommending
+CUST087454|Business Loan|656000|2025-02-13|It would be greatly appreciated if that the project deliverables are submitted by the upcoming deadline
+CUST057068|Business Loan|634000|2024-05-20|It would be awesome if we could spend a lazy Sunday just binge-watching old shows
+CUST004506|Loan Against Deposit|398000|2025-03-18|I would like to inform you that your valuable feedback is shared with the broader management team
+CUST068475|Auto Loan|317000|2025-04-24|Just wanted to say we could go on a spontaneous road trip without much planning
+CUST050865|Travel Loan|967000|2024-05-21|I am writing to follow up that the updated policy guidelines have been distributed to all departments
+CUST004903|Business Loan|87000|2024-08-09|I finally got time to we could grab dinner sometime this week and catch up properly
+CUST014351|Loan Against Deposit|875000|2024-10-05|Thank you for your attention that the updated policy guidelines have been distributed to all departments
+CUST075666|Business Loan|194000|2025-03-07|Thank you for your attention that the scheduled timeline for the project remains unchanged
+CUST062777|Travel Loan|358000|2024-05-26|Hey I was thinking we could try that new pizza place everyone keeps recommending
+CUST081486|Top-Up Loan|492000|2025-03-07|We should arrange a meeting that the revised contract terms are reviewed and accepted
+CUST013776|Loan Against Deposit|749000|2024-07-02|Let me know if we could start working on that project idea we joked about earlier
+CUST056367|Top-Up Loan|201000|2025-02-15|Please do not hesitate to reach out that all compliance requirements have been successfully met
+CUST072917|Credit Card Loan|797000|2025-04-14|The requested documents have been prepared and that all compliance requirements have been successfully met
+CUST009905|Personal Loan|687000|2025-04-01|I would like to inform you that the invoice details are correctly reflected in your records
+CUST023019|Travel Loan|212000|2024-07-13|The requested documents have been prepared and that the invoice details are correctly reflected in your records
+CUST065204|Home Loan|52000|2024-12-05|Kindly let me know that the invoice details are correctly reflected in your records
+CUST088478|Loan Against Deposit|21000|2024-11-05|Maybe we can plan something we could try that new pizza place everyone keeps recommending
+CUST051918|Loan Against Deposit|577000|2024-12-02|Kindly let me know that your valuable feedback is shared with the broader management team
+CUST036059|Home Loan|460000|2024-09-23|We seriously need to we could spend a lazy Sunday just binge-watching old shows
+CUST075017|Business Loan|236000|2025-02-25|Thank you for your attention that the updated policy guidelines have been distributed to all departments
+CUST065883|Credit Card Loan|251000|2024-08-27|Please do not hesitate to reach out that your valuable feedback is shared with the broader management team
+CUST039722|Travel Loan|682000|2024-11-17|It would be awesome if we could go for a hike if the weather stays good
+CUST089350|Medical Loan|53000|2024-07-26|Thank you for your attention that all compliance requirements have been successfully met
+CUST088853|Home Loan|979000|2024-05-24|Just wanted to say we could start working on that project idea we joked about earlier
+CUST075291|Loan Against Deposit|742000|2025-05-07|It would be awesome if we could go for a hike if the weather stays good
+CUST027444|Auto Loan|947000|2024-10-03|It would be awesome if we could try that new pizza place everyone keeps recommending
+CUST097524|Medical Loan|153000|2025-04-01|Please ensure that that your valuable feedback is shared with the broader management team
+CUST076701|Home Loan|40000|2025-02-18|I finally got time to we could hang out by the beach before it gets colder again
+CUST033193|Home Loan|721000|2024-10-16|Just wanted to say we could start working on that project idea we joked about earlier
+CUST008655|Credit Card Loan|632000|2024-11-21|It would be greatly appreciated if that the updated policy guidelines have been distributed to all departments
+CUST073166|Top-Up Loan|412000|2024-11-24|Hey I was thinking we could host a small get-together at my place this weekend
+CUST031032|Personal Loan|620000|2025-04-28|Hey I was thinking we could grab dinner sometime this week and catch up properly
+CUST051878|Business Loan|966000|2024-07-29|It would be awesome if we could grab dinner sometime this week and catch up properly
+CUST073985|Auto Loan|276000|2025-03-04|Thinking we should we could hang out by the beach before it gets colder again
+CUST080833|Credit Card Loan|247000|2024-07-22|The requested documents have been prepared and that the invoice details are correctly reflected in your records
+CUST056573|Home Loan|956000|2024-10-06|I would like to inform you that we maintain open communication during the implementation period
+CUST027490|Home Loan|346000|2024-06-19|You should definitely join we could try that new pizza place everyone keeps recommending
+CUST021101|Home Loan|981000|2025-03-13|The requested documents have been prepared and that the invoice details are correctly reflected in your records
+CUST025915|Top-Up Loan|210000|2025-02-05|I finally got time to we could start working on that project idea we joked about earlier
+CUST074326|Loan Against Deposit|402000|2024-09-11|I am writing to follow up that the scheduled timeline for the project remains unchanged
+CUST058675|Education Loan|19000|2025-03-31|I am writing to follow up that the project deliverables are submitted by the upcoming deadline
+CUST094561|Auto Loan|432000|2024-07-10|Let me know if we could go for a hike if the weather stays good
+CUST039643|Home Loan|996000|2024-08-20|Please ensure that that the project deliverables are submitted by the upcoming deadline
+CUST069722|Business Loan|432000|2025-04-23|Please do not hesitate to reach out that your valuable feedback is shared with the broader management team
+CUST027466|Education Loan|316000|2024-07-28|Please ensure that that your valuable feedback is shared with the broader management team
+CUST044709|Auto Loan|655000|2024-06-27|Please ensure that that the project deliverables are submitted by the upcoming deadline
+CUST045048|Credit Card Loan|486000|2025-03-13|Just wanted to say we could book tickets for that concert happening next month
+CUST054624|Top-Up Loan|193000|2025-04-17|It would be greatly appreciated if that the revised contract terms are reviewed and accepted
+CUST067916|Home Loan|191000|2024-05-22|We should arrange a meeting that your comments are incorporated into the final version of the agreement
+CUST012068|Education Loan|12000|2024-12-09|Kindly let me know that your comments are incorporated into the final version of the agreement
+CUST027357|Credit Card Loan|410000|2024-12-06|Kindly let me know that there are no pending items before the closure of this phase
+CUST021270|Medical Loan|554000|2024-07-04|We seriously need to we could hang out by the beach before it gets colder again
+CUST030250|Credit Card Loan|827000|2025-04-27|The requested documents have been prepared and that your valuable feedback is shared with the broader management team
+CUST071297|Business Loan|902000|2025-01-31|You should definitely join we could spend a lazy Sunday just binge-watching old shows
+CUST024473|Personal Loan|845000|2025-02-10|I would like to inform you that the project deliverables are submitted by the upcoming deadline
+CUST018694|Medical Loan|135000|2024-05-17|You should definitely join we could hang out by the beach before it gets colder again
+CUST097949|Business Loan|487000|2024-07-06|The requested documents have been prepared and that all compliance requirements have been successfully met
+CUST063707|Auto Loan|451000|2025-02-11|Please ensure that that the invoice details are correctly reflected in your records
+CUST070352|Education Loan|971000|2025-03-17|It would be awesome if we could start working on that project idea we joked about earlier
+CUST082262|Business Loan|301000|2024-07-04|Thank you for your attention that all compliance requirements have been successfully met
+CUST019328|Home Loan|314000|2024-07-23|It would be greatly appreciated if that your comments are incorporated into the final version of the agreement
+CUST024524|Travel Loan|597000|2024-06-29|We should arrange a meeting that the updated policy guidelines have been distributed to all departments
+CUST087511|Business Loan|188000|2024-12-04|I would like to inform you that the updated policy guidelines have been distributed to all departments
+CUST009010|Loan Against Deposit|32000|2025-03-03|Just wanted to say we could book tickets for that concert happening next month
+CUST029224|Loan Against Deposit|360000|2024-07-16|I would like to inform you that the revised contract terms are reviewed and accepted
+CUST036625|Travel Loan|574000|2025-01-26|Maybe we can plan something we could go for a hike if the weather stays good
+CUST004661|Education Loan|447000|2024-08-23|Kindly let me know that there are no pending items before the closure of this phase
+CUST025825|Travel Loan|584000|2025-04-05|The requested documents have been prepared and that all compliance requirements have been successfully met
+CUST075825|Travel Loan|337000|2025-01-16|We are awaiting your confirmation that your comments are incorporated into the final version of the agreement
+CUST092227|Travel Loan|437000|2024-11-05|Please ensure that that we maintain open communication during the implementation period
+CUST049606|Credit Card Loan|950000|2025-03-22|The requested documents have been prepared and that the scheduled timeline for the project remains unchanged
+CUST016785|Home Loan|867000|2025-01-13|It would be awesome if we could book tickets for that concert happening next month
+CUST069350|Business Loan|440000|2024-05-17|Thinking we should we could book tickets for that concert happening next month
+CUST089148|Home Loan|458000|2025-01-26|It has been way too long since we could check out that new movie you mentioned last month
+CUST038249|Credit Card Loan|732000|2024-06-06|Thinking we should we could start working on that project idea we joked about earlier
+CUST083028|Credit Card Loan|882000|2024-10-29|We seriously need to we could try that new pizza place everyone keeps recommending
+CUST053697|Loan Against Deposit|155000|2024-06-01|You should definitely join we could check out that new movie you mentioned last month
+CUST027088|Credit Card Loan|690000|2025-02-09|I am writing to follow up that the scheduled timeline for the project remains unchanged
+CUST069724|Auto Loan|141000|2024-06-23|Let me know if we could start working on that project idea we joked about earlier
+CUST093270|Credit Card Loan|532000|2025-05-02|I finally got time to we could hang out by the beach before it gets colder again
+CUST033630|Travel Loan|222000|2025-03-06|The requested documents have been prepared and that your comments are incorporated into the final version of the agreement
+CUST067932|Medical Loan|798000|2024-05-27|It has been way too long since we could grab dinner sometime this week and catch up properly
+CUST041345|Credit Card Loan|12000|2024-11-18|Just wanted to say we could book tickets for that concert happening next month
+CUST090085|Credit Card Loan|653000|2024-09-08|We seriously need to we could host a small get-together at my place this weekend
+CUST026920|Travel Loan|239000|2025-04-28|I would like to inform you that the scheduled timeline for the project remains unchanged
+CUST023453|Loan Against Deposit|53000|2025-04-17|Hey I was thinking we could grab dinner sometime this week and catch up properly
+CUST008688|Loan Against Deposit|998000|2024-06-26|The requested documents have been prepared and that there are no pending items before the closure of this phase
+CUST008631|Medical Loan|648000|2024-12-25|It would be awesome if we could try that new pizza place everyone keeps recommending
+CUST036280|Business Loan|698000|2024-12-12|Just wanted to say we could go on a spontaneous road trip without much planning
+CUST057443|Top-Up Loan|667000|2024-07-04|I am writing to follow up that the scheduled timeline for the project remains unchanged
+CUST069361|Business Loan|112000|2025-03-29|Thank you for your attention that the scheduled timeline for the project remains unchanged
+CUST083081|Top-Up Loan|143000|2024-10-18|I would like to inform you that the revised contract terms are reviewed and accepted
+CUST010228|Travel Loan|930000|2024-11-05|Just wanted to say we could go for a hike if the weather stays good
+CUST092990|Top-Up Loan|693000|2024-09-04|I am writing to follow up that the scheduled timeline for the project remains unchanged
+CUST090193|Loan Against Deposit|621000|2024-07-28|It would be greatly appreciated if that the scheduled timeline for the project remains unchanged
+CUST050242|Personal Loan|123000|2024-09-04|Hey I was thinking we could hang out by the beach before it gets colder again
+CUST010785|Home Loan|580000|2024-11-19|We seriously need to we could try that new pizza place everyone keeps recommending
+CUST058348|Education Loan|201000|2025-05-06|We should arrange a meeting that the scheduled timeline for the project remains unchanged
+CUST095869|Education Loan|867000|2024-05-08|Please ensure that that the invoice details are correctly reflected in your records
+CUST013222|Education Loan|345000|2024-09-09|You should definitely join we could grab dinner sometime this week and catch up properly
+CUST078634|Credit Card Loan|354000|2024-08-04|Kindly let me know that there are no pending items before the closure of this phase
+CUST081701|Loan Against Deposit|551000|2024-12-19|Thank you for your attention that the scheduled timeline for the project remains unchanged
+CUST049078|Loan Against Deposit|918000|2024-08-11|It would be greatly appreciated if that your valuable feedback is shared with the broader management team
+CUST061764|Medical Loan|892000|2024-09-28|Maybe we can plan something we could try that new pizza place everyone keeps recommending
+CUST022642|Business Loan|55000|2025-01-10|I finally got time to we could host a small get-together at my place this weekend
+CUST055566|Travel Loan|743000|2025-01-21|Please ensure that that your comments are incorporated into the final version of the agreement
+CUST008053|Business Loan|441000|2025-04-20|Thinking we should we could start working on that project idea we joked about earlier
+CUST031954|Business Loan|991000|2024-09-27|Hey I was thinking we could go on a spontaneous road trip without much planning
+CUST081834|Top-Up Loan|549000|2024-06-07|I would like to inform you that the invoice details are correctly reflected in your records
+CUST000934|Loan Against Deposit|868000|2024-12-30|I am writing to follow up that the updated policy guidelines have been distributed to all departments
+CUST077534|Auto Loan|784000|2024-06-18|Just wanted to say we could go on a spontaneous road trip without much planning
+CUST028493|Medical Loan|542000|2025-04-25|Thinking we should we could go on a spontaneous road trip without much planning
+CUST070088|Top-Up Loan|486000|2024-06-12|Maybe we can plan something we could try that new pizza place everyone keeps recommending
+CUST030005|Home Loan|388000|2024-10-28|It would be awesome if we could spend a lazy Sunday just binge-watching old shows
+CUST038567|Home Loan|689000|2025-01-31|I finally got time to we could grab dinner sometime this week and catch up properly
+CUST050990|Auto Loan|433000|2024-08-23|We should arrange a meeting that the scheduled timeline for the project remains unchanged
+CUST050256|Travel Loan|439000|2024-11-28|Let me know if we could hang out by the beach before it gets colder again
+CUST045154|Top-Up Loan|136000|2024-11-10|Hey I was thinking we could host a small get-together at my place this weekend
+CUST078261|Travel Loan|355000|2024-05-24|Please do not hesitate to reach out that the revised contract terms are reviewed and accepted
+CUST020630|Auto Loan|396000|2024-09-19|Let me know if we could start working on that project idea we joked about earlier
+CUST072563|Personal Loan|991000|2025-01-14|Let me know if we could go for a hike if the weather stays good
+CUST086228|Loan Against Deposit|419000|2024-08-10|Maybe we can plan something we could start working on that project idea we joked about earlier
+CUST022072|Medical Loan|467000|2024-09-23|We should arrange a meeting that the scheduled timeline for the project remains unchanged
+CUST007658|Loan Against Deposit|48000|2024-12-31|It has been way too long since we could try that new pizza place everyone keeps recommending
+CUST020858|Education Loan|713000|2025-04-05|You should definitely join we could hang out by the beach before it gets colder again
+CUST030207|Credit Card Loan|495000|2024-07-20|It would be awesome if we could grab dinner sometime this week and catch up properly
+CUST097725|Business Loan|972000|2025-03-23|Maybe we can plan something we could hang out by the beach before it gets colder again
+CUST093403|Travel Loan|153000|2024-06-02|I would like to inform you that the revised contract terms are reviewed and accepted
+CUST026281|Medical Loan|546000|2024-12-14|Please ensure that that there are no pending items before the closure of this phase
+CUST055311|Loan Against Deposit|56000|2024-10-24|Let me know if we could hang out by the beach before it gets colder again
+CUST030407|Top-Up Loan|762000|2024-10-06|You should definitely join we could grab dinner sometime this week and catch up properly
+CUST038878|Business Loan|919000|2024-10-29|We seriously need to we could start working on that project idea we joked about earlier
+CUST003646|Loan Against Deposit|901000|2024-08-09|It has been way too long since we could host a small get-together at my place this weekend
+CUST066904|Personal Loan|533000|2024-08-27|Thank you for your attention that your valuable feedback is shared with the broader management team
+CUST052060|Loan Against Deposit|987000|2025-02-20|Thinking we should we could start working on that project idea we joked about earlier
+CUST079125|Medical Loan|828000|2024-07-06|We seriously need to we could start working on that project idea we joked about earlier
+CUST097609|Personal Loan|547000|2024-12-31|It has been way too long since we could grab dinner sometime this week and catch up properly
+CUST021634|Travel Loan|373000|2024-08-14|We should arrange a meeting that there are no pending items before the closure of this phase
+CUST080618|Top-Up Loan|244000|2025-04-25|Hey I was thinking we could go for a hike if the weather stays good
+CUST004139|Home Loan|722000|2025-05-03|We should arrange a meeting that the project deliverables are submitted by the upcoming deadline
+CUST081823|Education Loan|191000|2024-07-10|We should arrange a meeting that there are no pending items before the closure of this phase
+CUST023204|Medical Loan|618000|2025-03-17|We seriously need to we could grab dinner sometime this week and catch up properly
+CUST002598|Travel Loan|843000|2025-04-12|The requested documents have been prepared and that your valuable feedback is shared with the broader management team
+CUST005111|Travel Loan|360000|2024-11-19|Thank you for your attention that your valuable feedback is shared with the broader management team
+CUST025203|Travel Loan|208000|2024-09-02|Please ensure that that your valuable feedback is shared with the broader management team
+CUST001861|Auto Loan|656000|2024-07-07|I am writing to follow up that the updated policy guidelines have been distributed to all departments
+CUST005859|Home Loan|920000|2025-02-13|It has been way too long since we could grab dinner sometime this week and catch up properly
+CUST040227|Education Loan|119000|2024-12-19|Please do not hesitate to reach out that the invoice details are correctly reflected in your records
+CUST093663|Top-Up Loan|922000|2024-10-02|Just wanted to say we could go on a spontaneous road trip without much planning
+CUST079672|Top-Up Loan|47000|2024-11-21|I finally got time to we could go on a spontaneous road trip without much planning
+CUST007337|Travel Loan|983000|2024-10-22|Thank you for your attention that all compliance requirements have been successfully met
+CUST018607|Personal Loan|159000|2024-06-29|Just wanted to say we could go for a hike if the weather stays good
+CUST013900|Education Loan|289000|2025-01-28|We seriously need to we could go for a hike if the weather stays good
+CUST093829|Travel Loan|230000|2024-09-10|Hey I was thinking we could host a small get-together at my place this weekend
+CUST088813|Loan Against Deposit|961000|2024-06-08|We seriously need to we could check out that new movie you mentioned last month
+CUST097673|Travel Loan|627000|2024-08-03|Please ensure that that your valuable feedback is shared with the broader management team
+CUST055318|Top-Up Loan|805000|2024-08-24|Hey I was thinking we could go for a hike if the weather stays good
+CUST072386|Education Loan|201000|2024-10-31|We should arrange a meeting that the scheduled timeline for the project remains unchanged
+CUST098067|Auto Loan|646000|2024-05-24|Maybe we can plan something we could check out that new movie you mentioned last month
+CUST002057|Education Loan|651000|2024-07-27|I am writing to follow up that the project deliverables are submitted by the upcoming deadline
+CUST092132|Home Loan|397000|2025-04-12|Hey I was thinking we could try that new pizza place everyone keeps recommending
+CUST046331|Travel Loan|828000|2025-05-03|We are awaiting your confirmation that there are no pending items before the closure of this phase
+CUST049174|Travel Loan|373000|2025-04-08|Kindly let me know that the revised contract terms are reviewed and accepted
+CUST056711|Top-Up Loan|883000|2025-03-06|Let me know if we could hang out by the beach before it gets colder again
+CUST027246|Business Loan|447000|2024-07-26|Thinking we should we could hang out by the beach before it gets colder again
+CUST036226|Top-Up Loan|454000|2024-06-21|Thank you for your attention that your valuable feedback is shared with the broader management team
+CUST026537|Loan Against Deposit|321000|2024-10-10|You should definitely join we could start working on that project idea we joked about earlier
+CUST011715|Credit Card Loan|571000|2025-02-14|Thank you for your attention that all compliance requirements have been successfully met
+CUST093651|Education Loan|780000|2025-04-26|Please ensure that that the revised contract terms are reviewed and accepted
+CUST079579|Medical Loan|833000|2024-05-16|We are awaiting your confirmation that the scheduled timeline for the project remains unchanged
+CUST066025|Travel Loan|247000|2025-05-06|Let me know if we could host a small get-together at my place this weekend
+CUST048248|Auto Loan|559000|2025-01-07|Thinking we should we could check out that new movie you mentioned last month
+CUST094196|Travel Loan|832000|2025-03-20|Just wanted to say we could hang out by the beach before it gets colder again
+CUST084497|Personal Loan|677000|2025-04-07|I am writing to follow up that the updated policy guidelines have been distributed to all departments
+CUST077957|Business Loan|332000|2024-09-12|It would be awesome if we could try that new pizza place everyone keeps recommending
+CUST080792|Home Loan|96000|2024-05-19|Thinking we should we could host a small get-together at my place this weekend
+CUST043162|Business Loan|422000|2024-07-14|We seriously need to we could grab dinner sometime this week and catch up properly
+CUST058943|Education Loan|581000|2024-05-19|Maybe we can plan something we could go on a spontaneous road trip without much planning
+CUST071996|Personal Loan|635000|2024-07-30|Let me know if we could book tickets for that concert happening next month
+CUST044995|Travel Loan|559000|2025-01-08|It would be awesome if we could go for a hike if the weather stays good
+CUST032446|Loan Against Deposit|972000|2025-01-01|Thinking we should we could check out that new movie you mentioned last month
+CUST048749|Auto Loan|111000|2025-03-11|Maybe we can plan something we could book tickets for that concert happening next month
+CUST057577|Medical Loan|947000|2024-11-30|Hey I was thinking we could book tickets for that concert happening next month
+CUST060163|Auto Loan|968000|2024-12-11|Please ensure that that the project deliverables are submitted by the upcoming deadline
+CUST021289|Education Loan|264000|2024-10-11|Just wanted to say we could check out that new movie you mentioned last month
+CUST006387|Business Loan|650000|2025-02-03|Kindly let me know that the revised contract terms are reviewed and accepted
+CUST055024|Travel Loan|425000|2024-12-01|Please do not hesitate to reach out that the updated policy guidelines have been distributed to all departments
+CUST011418|Credit Card Loan|235000|2024-11-17|You should definitely join we could start working on that project idea we joked about earlier
+CUST034690|Auto Loan|618000|2024-08-08|Please ensure that that your comments are incorporated into the final version of the agreement
+CUST006040|Home Loan|242000|2025-01-11|I am writing to follow up that the invoice details are correctly reflected in your records
+CUST048378|Top-Up Loan|266000|2025-03-04|We seriously need to we could go for a hike if the weather stays good
+CUST035154|Education Loan|461000|2024-08-09|It has been way too long since we could grab dinner sometime this week and catch up properly
+CUST082756|Personal Loan|689000|2025-04-17|Just wanted to say we could go for a hike if the weather stays good
+CUST086929|Loan Against Deposit|596000|2024-09-08|Hey I was thinking we could start working on that project idea we joked about earlier
+CUST037020|Top-Up Loan|14000|2024-07-11|I would like to inform you that the updated policy guidelines have been distributed to all departments
+CUST098695|Education Loan|107000|2024-10-05|I am writing to follow up that the project deliverables are submitted by the upcoming deadline
+CUST047343|Auto Loan|956000|2024-12-21|It would be awesome if we could go on a spontaneous road trip without much planning
+CUST072506|Personal Loan|83000|2025-04-15|We seriously need to we could grab dinner sometime this week and catch up properly
+CUST060425|Auto Loan|764000|2025-02-25|Maybe we can plan something we could start working on that project idea we joked about earlier
+CUST014620|Business Loan|403000|2025-03-01|We should arrange a meeting that the scheduled timeline for the project remains unchanged
+CUST071603|Loan Against Deposit|654000|2025-03-09|Thinking we should we could check out that new movie you mentioned last month
+CUST024789|Top-Up Loan|789000|2024-05-28|It would be greatly appreciated if that the scheduled timeline for the project remains unchanged
+CUST072430|Medical Loan|935000|2024-11-25|I would like to inform you that your valuable feedback is shared with the broader management team
+CUST095200|Credit Card Loan|679000|2024-06-06|I would like to inform you that the invoice details are correctly reflected in your records
+CUST023077|Auto Loan|790000|2025-04-13|The requested documents have been prepared and that we maintain open communication during the implementation period
+CUST041975|Top-Up Loan|926000|2025-04-06|I am writing to follow up that your comments are incorporated into the final version of the agreement
+CUST023887|Personal Loan|981000|2024-06-17|We should arrange a meeting that the project deliverables are submitted by the upcoming deadline
+CUST027265|Personal Loan|16000|2024-06-18|It has been way too long since we could try that new pizza place everyone keeps recommending
+CUST043397|Education Loan|915000|2024-11-11|I am writing to follow up that your comments are incorporated into the final version of the agreement
+CUST061086|Home Loan|744000|2025-03-14|We are awaiting your confirmation that we maintain open communication during the implementation period
+CUST020165|Education Loan|903000|2024-07-20|It would be greatly appreciated if that your comments are incorporated into the final version of the agreement
+CUST058644|Travel Loan|378000|2024-12-22|I would like to inform you that all compliance requirements have been successfully met
+CUST090530|Medical Loan|855000|2024-11-11|We seriously need to we could spend a lazy Sunday just binge-watching old shows
+CUST031758|Auto Loan|972000|2024-08-04|I finally got time to we could book tickets for that concert happening next month
+CUST067888|Auto Loan|185000|2024-06-25|You should definitely join we could book tickets for that concert happening next month
+CUST009825|Travel Loan|374000|2024-08-10|Let me know if we could grab dinner sometime this week and catch up properly
+CUST007633|Personal Loan|202000|2024-10-27|Thank you for your attention that all compliance requirements have been successfully met
+CUST019436|Personal Loan|651000|2025-02-19|Let me know if we could host a small get-together at my place this weekend
+CUST043734|Home Loan|395000|2024-10-11|Please do not hesitate to reach out that your comments are incorporated into the final version of the agreement
+CUST082844|Top-Up Loan|909000|2024-11-13|Let me know if we could go for a hike if the weather stays good
+CUST009535|Loan Against Deposit|775000|2024-11-02|I am writing to follow up that there are no pending items before the closure of this phase
+CUST094287|Personal Loan|271000|2024-06-03|Please do not hesitate to reach out that we maintain open communication during the implementation period
+CUST044826|Auto Loan|302000|2025-03-01|Thinking we should we could check out that new movie you mentioned last month
+CUST010471|Credit Card Loan|890000|2025-03-14|It would be greatly appreciated if that the project deliverables are submitted by the upcoming deadline
+CUST042322|Education Loan|919000|2024-05-19|We are awaiting your confirmation that your valuable feedback is shared with the broader management team
+CUST004527|Personal Loan|172000|2024-05-23|Thank you for your attention that there are no pending items before the closure of this phase
+CUST085972|Credit Card Loan|643000|2024-06-21|Maybe we can plan something we could host a small get-together at my place this weekend
+CUST047956|Travel Loan|410000|2025-04-24|Thinking we should we could go on a spontaneous road trip without much planning
+CUST001918|Auto Loan|324000|2025-03-27|Please do not hesitate to reach out that your valuable feedback is shared with the broader management team
+CUST003743|Top-Up Loan|634000|2024-07-14|We are awaiting your confirmation that the scheduled timeline for the project remains unchanged
+CUST029118|Home Loan|521000|2024-08-04|Please ensure that that your comments are incorporated into the final version of the agreement
+CUST018747|Credit Card Loan|813000|2024-07-21|Thank you for your attention that your comments are incorporated into the final version of the agreement
+CUST089711|Loan Against Deposit|816000|2024-12-09|Thinking we should we could grab dinner sometime this week and catch up properly
+CUST052420|Credit Card Loan|391000|2025-03-30|Kindly let me know that the project deliverables are submitted by the upcoming deadline
+CUST052153|Business Loan|205000|2024-09-16|We should arrange a meeting that there are no pending items before the closure of this phase
+CUST018162|Travel Loan|38000|2024-12-12|Please do not hesitate to reach out that there are no pending items before the closure of this phase
+CUST056776|Business Loan|534000|2024-08-20|It would be awesome if we could go on a spontaneous road trip without much planning
+CUST000042|Credit Card Loan|441000|2024-10-23|Let me know if we could go for a hike if the weather stays good
+CUST079243|Education Loan|288000|2024-12-21|Thinking we should we could book tickets for that concert happening next month
+CUST008350|Credit Card Loan|176000|2025-01-31|Kindly let me know that the updated policy guidelines have been distributed to all departments
+CUST078059|Travel Loan|838000|2024-09-11|I finally got time to we could check out that new movie you mentioned last month
+CUST006320|Auto Loan|933000|2024-12-01|Kindly let me know that your valuable feedback is shared with the broader management team
+CUST025574|Education Loan|722000|2025-03-30|Thinking we should we could book tickets for that concert happening next month
+CUST053701|Personal Loan|936000|2025-04-30|It has been way too long since we could book tickets for that concert happening next month
+CUST007035|Home Loan|179000|2024-12-25|Please ensure that that the invoice details are correctly reflected in your records
+CUST044539|Travel Loan|462000|2024-08-27|It would be greatly appreciated if that your valuable feedback is shared with the broader management team
+CUST071556|Auto Loan|173000|2024-10-06|Kindly let me know that all compliance requirements have been successfully met
+CUST071888|Home Loan|762000|2025-02-20|Thank you for your attention that your comments are incorporated into the final version of the agreement
+CUST034254|Auto Loan|286000|2025-03-19|Maybe we can plan something we could book tickets for that concert happening next month
+CUST009204|Loan Against Deposit|604000|2024-08-24|You should definitely join we could go on a spontaneous road trip without much planning
+CUST012760|Business Loan|551000|2024-12-06|I finally got time to we could host a small get-together at my place this weekend
+CUST039139|Education Loan|53000|2024-09-30|Thinking we should we could spend a lazy Sunday just binge-watching old shows
+CUST092726|Personal Loan|337000|2025-02-05|Maybe we can plan something we could start working on that project idea we joked about earlier
+CUST063587|Credit Card Loan|496000|2024-11-19|Maybe we can plan something we could go on a spontaneous road trip without much planning
+CUST019372|Personal Loan|133000|2024-12-10|Please do not hesitate to reach out that the updated policy guidelines have been distributed to all departments
+CUST030617|Credit Card Loan|594000|2024-05-22|We should arrange a meeting that the scheduled timeline for the project remains unchanged
+CUST084165|Medical Loan|643000|2024-09-10|You should definitely join we could hang out by the beach before it gets colder again
+CUST044401|Loan Against Deposit|880000|2025-02-25|I am writing to follow up that the scheduled timeline for the project remains unchanged
+CUST067293|Business Loan|165000|2025-03-12|We are awaiting your confirmation that the scheduled timeline for the project remains unchanged
+CUST024401|Personal Loan|295000|2025-01-29|Kindly let me know that there are no pending items before the closure of this phase
+CUST057210|Education Loan|977000|2024-12-10|Maybe we can plan something we could try that new pizza place everyone keeps recommending
+CUST004688|Medical Loan|266000|2024-07-27|Maybe we can plan something we could check out that new movie you mentioned last month
+CUST022706|Education Loan|58000|2025-03-28|Let me know if we could try that new pizza place everyone keeps recommending
+CUST049928|Travel Loan|239000|2024-07-16|We are awaiting your confirmation that there are no pending items before the closure of this phase
+CUST043281|Business Loan|794000|2024-12-27|Let me know if we could spend a lazy Sunday just binge-watching old shows
+CUST025364|Home Loan|738000|2024-06-21|I am writing to follow up that the project deliverables are submitted by the upcoming deadline
+CUST006856|Education Loan|739000|2024-09-21|I am writing to follow up that the scheduled timeline for the project remains unchanged
+CUST048698|Travel Loan|784000|2025-03-21|It would be awesome if we could start working on that project idea we joked about earlier
+CUST032689|Home Loan|295000|2024-06-05|Please ensure that that your comments are incorporated into the final version of the agreement
+CUST054126|Business Loan|970000|2025-04-19|Maybe we can plan something we could hang out by the beach before it gets colder again
+CUST054255|Home Loan|836000|2024-08-01|Thank you for your attention that all compliance requirements have been successfully met
+CUST009664|Loan Against Deposit|676000|2024-12-08|We seriously need to we could spend a lazy Sunday just binge-watching old shows
+CUST067314|Home Loan|145000|2025-04-05|Please do not hesitate to reach out that the invoice details are correctly reflected in your records
+CUST019966|Auto Loan|501000|2024-06-15|I finally got time to we could book tickets for that concert happening next month
+CUST049230|Home Loan|715000|2024-10-01|We seriously need to we could try that new pizza place everyone keeps recommending
+CUST097506|Travel Loan|919000|2024-05-09|I finally got time to we could check out that new movie you mentioned last month
+CUST007703|Personal Loan|551000|2025-02-18|We seriously need to we could grab dinner sometime this week and catch up properly
+CUST042495|Personal Loan|551000|2024-12-03|I am writing to follow up that all compliance requirements have been successfully met
+CUST030445|Auto Loan|956000|2025-02-26|Let me know if we could grab dinner sometime this week and catch up properly
+CUST033217|Business Loan|69000|2025-04-25|Maybe we can plan something we could spend a lazy Sunday just binge-watching old shows
+CUST064176|Loan Against Deposit|285000|2025-02-05|It would be awesome if we could go for a hike if the weather stays good
+CUST021785|Education Loan|215000|2024-05-17|I am writing to follow up that we maintain open communication during the implementation period
+CUST089247|Medical Loan|579000|2025-02-16|Maybe we can plan something we could go for a hike if the weather stays good
+CUST097358|Travel Loan|629000|2024-12-03|I would like to inform you that all compliance requirements have been successfully met
+CUST025268|Business Loan|231000|2024-09-17|Hey I was thinking we could go for a hike if the weather stays good
+CUST071673|Loan Against Deposit|280000|2024-11-01|Maybe we can plan something we could go for a hike if the weather stays good
+CUST074382|Travel Loan|49000|2024-12-16|Kindly let me know that the updated policy guidelines have been distributed to all departments
+CUST057707|Education Loan|693000|2025-03-22|Please do not hesitate to reach out that we maintain open communication during the implementation period
+CUST091302|Travel Loan|37000|2024-11-08|It has been way too long since we could check out that new movie you mentioned last month
+CUST068495|Auto Loan|743000|2024-12-27|Just wanted to say we could go on a spontaneous road trip without much planning
+CUST066563|Loan Against Deposit|842000|2025-03-16|I finally got time to we could book tickets for that concert happening next month
+CUST007165|Business Loan|355000|2024-05-17|Please do not hesitate to reach out that the invoice details are correctly reflected in your records
+CUST022208|Loan Against Deposit|99000|2024-08-22|I am writing to follow up that the scheduled timeline for the project remains unchanged
+CUST098509|Credit Card Loan|924000|2025-05-01|We are awaiting your confirmation that the invoice details are correctly reflected in your records
+CUST011417|Home Loan|691000|2024-12-30|Please ensure that that the invoice details are correctly reflected in your records
+CUST033649|Personal Loan|493000|2025-02-19|I finally got time to we could book tickets for that concert happening next month
+CUST063735|Loan Against Deposit|261000|2025-02-26|Please ensure that that the project deliverables are submitted by the upcoming deadline
+CUST074660|Education Loan|726000|2024-05-18|We should arrange a meeting that the invoice details are correctly reflected in your records
+CUST029014|Education Loan|144000|2024-10-19|We seriously need to we could go on a spontaneous road trip without much planning
+CUST088088|Medical Loan|907000|2024-10-02|It would be greatly appreciated if that your comments are incorporated into the final version of the agreement
+CUST084637|Travel Loan|37000|2025-04-14|We seriously need to we could spend a lazy Sunday just binge-watching old shows
+CUST038546|Credit Card Loan|569000|2024-06-21|We are awaiting your confirmation that the project deliverables are submitted by the upcoming deadline
+CUST072292|Education Loan|928000|2024-08-31|It has been way too long since we could go for a hike if the weather stays good
+CUST054886|Home Loan|35000|2024-07-31|Thank you for your attention that your valuable feedback is shared with the broader management team
+CUST072925|Personal Loan|464000|2025-04-28|Hey I was thinking we could go for a hike if the weather stays good
+CUST006247|Auto Loan|252000|2024-05-26|Just wanted to say we could go for a hike if the weather stays good
+CUST033580|Credit Card Loan|377000|2025-02-01|We seriously need to we could hang out by the beach before it gets colder again
+CUST081689|Education Loan|485000|2025-02-15|Let me know if we could try that new pizza place everyone keeps recommending
+CUST068065|Auto Loan|577000|2025-01-13|Hey I was thinking we could go on a spontaneous road trip without much planning
+CUST031288|Medical Loan|455000|2024-07-14|Please do not hesitate to reach out that there are no pending items before the closure of this phase
+CUST040593|Business Loan|42000|2024-05-21|We are awaiting your confirmation that the invoice details are correctly reflected in your records
+CUST008550|Home Loan|858000|2024-05-26|Thank you for your attention that the scheduled timeline for the project remains unchanged
+CUST049219|Credit Card Loan|800000|2024-06-20|Thinking we should we could check out that new movie you mentioned last month
+CUST010640|Auto Loan|674000|2025-05-07|I am writing to follow up that the updated policy guidelines have been distributed to all departments
+CUST058698|Education Loan|142000|2024-05-18|Let me know if we could go for a hike if the weather stays good
+CUST013049|Loan Against Deposit|121000|2024-10-27|It would be greatly appreciated if that your valuable feedback is shared with the broader management team
+CUST074599|Business Loan|50000|2024-12-20|Just wanted to say we could spend a lazy Sunday just binge-watching old shows
+CUST002779|Auto Loan|789000|2024-05-20|Thinking we should we could check out that new movie you mentioned last month
+CUST000197|Loan Against Deposit|701000|2025-03-25|Thank you for your attention that the updated policy guidelines have been distributed to all departments
+CUST054900|Auto Loan|592000|2025-02-01|Please do not hesitate to reach out that your valuable feedback is shared with the broader management team
+CUST026805|Loan Against Deposit|313000|2024-12-18|Please do not hesitate to reach out that your valuable feedback is shared with the broader management team
+CUST037641|Personal Loan|61000|2025-04-17|Please do not hesitate to reach out that we maintain open communication during the implementation period
+CUST076907|Auto Loan|612000|2024-11-27|It has been way too long since we could go for a hike if the weather stays good
+CUST075155|Auto Loan|663000|2024-10-04|I would like to inform you that your valuable feedback is shared with the broader management team
+CUST077051|Medical Loan|362000|2024-11-22|Kindly let me know that your valuable feedback is shared with the broader management team
+CUST091877|Auto Loan|459000|2025-02-02|We should arrange a meeting that the project deliverables are submitted by the upcoming deadline
+CUST047312|Education Loan|742000|2025-03-21|The requested documents have been prepared and that all compliance requirements have been successfully met
+CUST028666|Travel Loan|228000|2025-04-19|You should definitely join we could spend a lazy Sunday just binge-watching old shows
+CUST006946|Credit Card Loan|895000|2024-06-26|You should definitely join we could try that new pizza place everyone keeps recommending
+CUST073093|Top-Up Loan|765000|2024-09-22|It would be awesome if we could go on a spontaneous road trip without much planning
+CUST000458|Education Loan|317000|2024-08-21|Hey I was thinking we could grab dinner sometime this week and catch up properly
+CUST041639|Loan Against Deposit|483000|2024-05-30|Thinking we should we could host a small get-together at my place this weekend
+CUST027430|Top-Up Loan|513000|2024-07-19|Please ensure that that the invoice details are correctly reflected in your records
+CUST040111|Credit Card Loan|596000|2024-09-26|Let me know if we could hang out by the beach before it gets colder again
+CUST088663|Credit Card Loan|695000|2024-06-25|We seriously need to we could go for a hike if the weather stays good
+CUST014377|Credit Card Loan|859000|2024-10-14|The requested documents have been prepared and that your comments are incorporated into the final version of the agreement
+CUST059423|Personal Loan|935000|2024-10-06|Please ensure that that your comments are incorporated into the final version of the agreement
+CUST013990|Education Loan|640000|2025-03-09|You should definitely join we could hang out by the beach before it gets colder again
+CUST077824|Loan Against Deposit|870000|2025-03-08|Thinking we should we could hang out by the beach before it gets colder again
+CUST042706|Education Loan|664000|2024-07-29|Thank you for your attention that all compliance requirements have been successfully met
+CUST037158|Home Loan|637000|2024-09-27|Let me know if we could try that new pizza place everyone keeps recommending
+CUST046997|Travel Loan|840000|2024-06-24|We are awaiting your confirmation that your valuable feedback is shared with the broader management team
+CUST031584|Auto Loan|452000|2024-09-21|It has been way too long since we could check out that new movie you mentioned last month
+CUST063731|Home Loan|328000|2024-05-16|Kindly let me know that the invoice details are correctly reflected in your records
+CUST077655|Credit Card Loan|181000|2024-10-19|Please ensure that that the project deliverables are submitted by the upcoming deadline
+CUST014759|Credit Card Loan|599000|2025-01-11|Maybe we can plan something we could go for a hike if the weather stays good
+CUST009814|Auto Loan|470000|2024-12-15|You should definitely join we could start working on that project idea we joked about earlier
+CUST034501|Home Loan|389000|2024-06-12|Just wanted to say we could go for a hike if the weather stays good
+CUST088579|Personal Loan|790000|2024-12-25|Please do not hesitate to reach out that your comments are incorporated into the final version of the agreement
+CUST055272|Home Loan|350000|2025-03-03|Thinking we should we could host a small get-together at my place this weekend
+CUST010891|Education Loan|847000|2024-07-29|Thinking we should we could book tickets for that concert happening next month
+CUST055726|Loan Against Deposit|141000|2024-11-18|Maybe we can plan something we could check out that new movie you mentioned last month
+CUST069032|Home Loan|78000|2024-06-29|It has been way too long since we could spend a lazy Sunday just binge-watching old shows
+CUST086658|Travel Loan|158000|2025-03-18|Hey I was thinking we could host a small get-together at my place this weekend
+CUST088509|Auto Loan|21000|2024-08-31|We are awaiting your confirmation that the project deliverables are submitted by the upcoming deadline
+CUST066215|Top-Up Loan|920000|2024-11-08|It would be greatly appreciated if that your comments are incorporated into the final version of the agreement
+CUST029127|Top-Up Loan|395000|2024-07-16|Let me know if we could spend a lazy Sunday just binge-watching old shows
+CUST048493|Home Loan|185000|2024-09-11|We should arrange a meeting that there are no pending items before the closure of this phase
+CUST006355|Home Loan|659000|2025-01-30|Thinking we should we could book tickets for that concert happening next month
+CUST078813|Personal Loan|212000|2024-10-21|Please ensure that that the scheduled timeline for the project remains unchanged
+CUST062431|Top-Up Loan|838000|2024-10-19|We are awaiting your confirmation that we maintain open communication during the implementation period
+CUST076136|Auto Loan|307000|2024-08-28|We seriously need to we could start working on that project idea we joked about earlier
+CUST027019|Credit Card Loan|266000|2024-05-14|Just wanted to say we could spend a lazy Sunday just binge-watching old shows
+CUST019173|Top-Up Loan|918000|2024-07-09|Please ensure that that your comments are incorporated into the final version of the agreement
+CUST078416|Loan Against Deposit|543000|2024-08-13|We seriously need to we could go for a hike if the weather stays good
+CUST055560|Medical Loan|140000|2024-07-06|We seriously need to we could spend a lazy Sunday just binge-watching old shows
+CUST014555|Auto Loan|946000|2024-05-08|I finally got time to we could grab dinner sometime this week and catch up properly
+CUST091021|Loan Against Deposit|69000|2025-04-14|It has been way too long since we could hang out by the beach before it gets colder again
+CUST039679|Education Loan|533000|2025-03-25|Please do not hesitate to reach out that we maintain open communication during the implementation period
+CUST035608|Loan Against Deposit|303000|2024-09-26|Maybe we can plan something we could hang out by the beach before it gets colder again
+CUST014272|Top-Up Loan|44000|2025-02-04|We should arrange a meeting that the scheduled timeline for the project remains unchanged
+CUST031544|Loan Against Deposit|180000|2025-03-10|It has been way too long since we could grab dinner sometime this week and catch up properly
+CUST054430|Travel Loan|952000|2025-02-20|Please do not hesitate to reach out that there are no pending items before the closure of this phase
