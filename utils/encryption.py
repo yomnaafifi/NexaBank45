@@ -1,5 +1,5 @@
 import random
-# import English words
+from ValidWords import ENGLISH_WORDS
 
 class CaesarCipher:
     @staticmethod
@@ -20,7 +20,7 @@ class CaesarCipher:
         best_shift = 0
         for shift in range(1, 26):
             decrypted = CaesarCipher.encrypt(text, -shift)
-            matches = sum(word.lower() in valid_words for word in decrypted.split())
+            matches = sum(word.lower() in ENGLISH_WORDS for word in decrypted.split())
             if matches > max_matches:
                 max_matches = matches
                 best_shift = shift
