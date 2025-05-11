@@ -1,5 +1,5 @@
 import random
-from ValidWords import ENGLISH_WORDS
+from utils.ValidWords import ENGLISH_WORDS
 
 class CaesarCipher:
     """
