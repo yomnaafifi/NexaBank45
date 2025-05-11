@@ -1,5 +1,5 @@
 import pandas as pd
-import BaseTransformer
+from Transformers.BaseTransformer import BaseTransformer
 
 class BillingTransformer(BaseTransformer):
     def transform(self):
