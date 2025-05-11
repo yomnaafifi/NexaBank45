@@ -1,5 +1,5 @@
 import pandas as pd
-import BaseExtractor
+from Extractors.BaseExtractor import BaseExtractor
 class JSONExtractor(BaseExtractor):
     def __init__(self, file: str):
         super().__init__(file)
@@ -8,5 +8,5 @@ class JSONExtractor(BaseExtractor):
         """
         Extract data from a JSON file using pandas.
         """
-        data = pd.read_json(self.file)
-        return data
+        return pd.read_json(self.file)
+        

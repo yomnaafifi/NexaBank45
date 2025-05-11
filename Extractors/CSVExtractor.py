@@ -1,5 +1,5 @@
 import pandas as pd
-import BaseExtractor
+from Extractors.BaseExtractor import BaseExtractor
 class CSVExtractor(BaseExtractor):
     def __init__(self, file: str):
         super().__init__(file)
@@ -8,5 +8,4 @@ class CSVExtractor(BaseExtractor):
         """
         Extract data from a CSV file using pandas.
         """
-        data = pd.read_csv(self.file)
-        return data
+        return pd.read_csv(self.file) 

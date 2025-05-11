@@ -1,5 +1,5 @@
 import pandas as pd
-import BaseExtractor
+from Extractors.BaseExtractor import BaseExtractor
 class TextExtractor(BaseExtractor):
     def __init__(self, file: str):
         super().__init__(file)
@@ -8,5 +8,5 @@ class TextExtractor(BaseExtractor):
         """
         Extract data from a plain text file using pandas.
         """
-        data = pd.read_csv(self.file, sep='|')
-        return data
+        return pd.read_csv(self.file, sep='|')
+        
