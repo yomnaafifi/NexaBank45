@@ -1,18 +1,29 @@
 import pandas as pd
 from Transformers.BaseTransformer import BaseTransformer 
-from datetime import datetime
 
-def calculate_cost(row):
-    """
-    Calculate the cost of a transaction based on the given formula.
-    """
-    transaction_amount = row['transaction_amount']
-    cost = 0.5 + (0.001 * transaction_amount)
-    return cost
-def calculate_total_amount(row):
-    """
-    Calculate the total amount of a transaction.
-    """
-    transaction_amount = row['transaction_amount']
-    cost = calculate_cost(row)
-    total_amount = transaction_amount + cost
+class TransactionsTransformer(BaseTransformer):
+    def transform(self):
+        """Transform the transactions data by calculating cost and total amount."""
+        
+        self.df['transaction_date'] = pd.to_datetime(self.df['transaction_date'])
+    
+        self.df['cost'] = 0.5 + (self.df['transaction_amount'] * 0.001)
+
+        self.df['total_amount'] = self.df['transaction_amount'] + self.df['cost']
+        
+        self.add_data_quality_columns()
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
