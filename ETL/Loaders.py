@@ -17,6 +17,8 @@ class BaseWriter(ABC):
 class LocalParquetWriter(BaseWriter):
     """transform dataframe into parquet file and save it locally"""
     def write(self) -> str:
+        if not self.local_path.endswith('.parquet'):
+            self.local_path += '.parquet'
         self.dataframe.to_parquet(self.local_path, index=False)
         return self.local_path
 
