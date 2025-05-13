@@ -6,6 +6,7 @@ from ETL.Loaders import *
 from watchdog.observers import Observer
 from watchdog.events import FileSystemEventHandler
 from utils.logger import setup_logger
+from utils.logger import log_action
 from utils.FileProcessor import FileProcessor
 setup_logger()
 
@@ -20,7 +21,7 @@ class PipelineHandler(FileSystemEventHandler):
 
         file = FileProcessor(event.src_path)
 
-        print(f"[INFO] Processing file: {file.file_name}")
+        log_action("ETL","Started The pipline",{'filename':event.src_path})
         try:
             extractor = file.get_extractor()
             df = extractor.extract()
