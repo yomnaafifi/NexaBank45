@@ -2,40 +2,50 @@ from abc import ABC, abstractmethod
 import pandas as pd
 import subprocess
 import os
-import pandas as pd
+
+class BaseWriter(ABC):
+    def __init__(self, dataframe: pd.DataFrame, local_path: str):
+        self.dataframe = dataframe
+        self.local_path = local_path
+
+    @abstractmethod
+    def write(self) -> str:
+        """Write the dataframe to a destination and return the path written."""
+        pass
+
+
+class LocalParquetWriter(BaseWriter):
+    """transform dataframe into parquet file and save it locally"""
+    def write(self) -> str:
+        self.dataframe.to_parquet(self.local_path, index=False)
+        return self.local_path
+
 
 class BaseLoader(ABC):
-    def __init__(self, data: pd.DataFrame):
-        """
-        Constructor to initialize the BaseLoader with a data attribute.
-
-        Args:
-            data (pandas.DataFrame): The data to be loaded, represented as a pandas DataFrame.
-        """
-        self.data = data
+    """Base class for loaders that handle the loading of dataframes to different destinations."""
+    def __init__(self, dataframe: pd.DataFrame, local_path: str, loading_path: str):
+        self.dataframe = dataframe
+        self.local_path = local_path
+        self.loading_path = loading_path
 
     @abstractmethod
     def load(self) -> bool:
-        """
-        Abstract method to load the data to be implemented by subclasses.
-
-        Returns:
-            bool: True if the data is successfully loaded, False otherwise.
-        """
         pass
 
 
 class HdfsLoader(BaseLoader):
+    """Load dataframe to HDFS using parquet writer"""
+    def load(self) -> bool:
+        try:
+            writer = LocalParquetWriter(self.dataframe, self.local_path)
+            local_file = writer.write()
 
-    def load(self, dataframe, file_name, hdfs_path):
-        """
-        Save the given DataFrame to the specified HDFS path in Parquet format.
-        """
-        local_parquet_path = f"/tmp/{file_name}.parquet"
-        dataframe.df.to_parquet(local_parquet_path, index=False)
+            subprocess.run(["hdfs", "dfs", "-mkdir", "-p", os.path.dirname(self.loading_path)], check=True)
+            subprocess.run(["hdfs", "dfs", "-put", "-f", local_file, self.loading_path], check=True)
 
-
-        subprocess.run(["hdfs", "dfs", "-mkdir", "-p", os.path.dirname(hdfs_path)], check=True)
-        subprocess.run(["hdfs", "dfs", "-put", "-f", local_parquet_path, hdfs_path], check=True)
-
-        os.remove(local_parquet_path)
+            os.remove(local_file)
+            return True
+        
+        except Exception as e:
+            print(f"[ERROR] Failed to load to HDFS: {e}")
+            return False
