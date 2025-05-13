@@ -1,48 +1,40 @@
 import os
-import glob
-import traceback
-from datetime import datetime
 from ETL.Extractors import *
 from ETL.Transformer import *
 from ETL.Loaders import *
-from utils.SchemaRegistry import *
+from utils.Registry import *
 
 class FileProcessor:
-    def __init__(self, incoming_dir: str):
-        self.incoming_dir = incoming_dir
+    def __init__(self, file_path: str):
+        self.file_path = file_path
+        self.file_name = os.path.basename(self.file_path)
+        self.name_without_ext, self.ext = os.path.splitext(self.file_name)
 
-    def process_files(self):
-        files = glob.glob(f"{self.incoming_dir}/**/*", recursive=True)
-
-        for file_path in files:
-            if not os.path.isfile(file_path):
-                continue
-
-            file_name = os.path.basename(file_path)
-            name_without_ext, ext = os.path.splitext(file_name)
-
-            extractor_cls = EXTRACTOR_REGISTRY.get(ext.lower())
-            transformer_cls = TRANSFORMER_REGISTRY.get(name_without_ext.lower())
-
-            if not extractor_cls or not transformer_cls:
-                print(f"[SKIPPED] No handler for: {file_path}")
-                continue
-
-            print(f"[INFO] Processing file: {file_path}")
-            try:
-                extractor = extractor_cls(file_path)
-                df = extractor.extract()
-
-                transformer = transformer_cls(df)
-                transformed_df = transformer.transform()
-
-                # load the dataframe
-                loader = LocalLoader(transformed_df, "tmp", name_without_ext)
-                loader.load()
+    def get_extractor(self) -> BaseExtractor: 
+        if EXTRACTOR_REGISTRY.get(self.ext.lower()):
+            return EXTRACTOR_REGISTRY.get(self.ext.lower())(self.file_path)
+        else:
+            raise ValueError(f"No Extractor found for extension: {self.ext}")
+    
+    def get_transformer(self) -> BaseTransformer.__class__: 
+        if TRANSFORMER_REGISTRY.get(self.name_without_ext.lower()):
+            return TRANSFORMER_REGISTRY.get(self.name_without_ext.lower())
+        else:
+            raise ValueError(f"No Transformer found for file: {self.name_without_ext}")
+            
+    def validate(self, data: pd.DataFrame) -> bool:
+        if self.name_without_ext in SCHEMA_REGISTRY.keys():
+            expected_columns = SCHEMA_REGISTRY[self.name_without_ext].keys()
+            if not all(col in data.columns for col in expected_columns):
+                print(f"DataFrame does not have the expected columns for {self.file_name}.")
+                return False
+            
+            for col, expected_type in SCHEMA_REGISTRY[self.name_without_ext].items():
+                if not pd.api.types.is_dtype_equal(data[col].dtype, expected_type):
+                    print(f"Column {col} in DataFrame does not have the expected type for {self.file_name}.")
+                    return False
                 
-                print(f"[SUCCESS] Processed {len(transformed_df)} rows from {file_name}")
-
-
-            except Exception as e:
-                print(f"[ERROR] Failed to process {file_name}: {e}")
-                traceback.print_exc()
+        else :
+            print(f"File name {self.file_name} is not recognized.")
+            return False
+        return True 
