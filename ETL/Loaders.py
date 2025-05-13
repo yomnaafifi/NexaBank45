@@ -27,7 +27,7 @@ class BaseLoader(ABC):
     """Base class for loaders that handle the loading of dataframes to different destinations."""
     def __init__(self, dataframe: pd.DataFrame, loading_path:str, file_name:str):
         self.dataframe = dataframe
-        self.loading_path = loading_path
+        self.loading_path = os.path.join(loading_path, str(dataframe['partition_date'].iloc[0]), str(dataframe['partition_hour'].iloc[0])) 
         self.file_name = file_name
         self.full_path = os.path.join(self.loading_path, self.file_name) 
 
@@ -39,6 +39,8 @@ class LocalLoader(BaseLoader):
     """Load dataframe to local file system using parquet writer"""
     def load(self) -> bool:
         try:
+            if not os.path.exists(self.loading_path):
+                os.makedirs(self.loading_path)
             writer = LocalParquetWriter(self.dataframe, self.full_path)
             writer.write()
             return True
@@ -51,10 +53,10 @@ class HdfsLoader(BaseLoader):
     """Load dataframe to HDFS using parquet writer"""
     def load(self) -> bool:
         try:
-            LocalLoader(self.dataframe, "tmp", self.file_name).load()
-
+            local = LocalLoader(self.dataframe, "tmp", self.file_name)
+            local.load()
             subprocess.run(["hdfs", "dfs", "-mkdir", "-p", self.loading_path], check=True)
-            subprocess.run(["hdfs", "dfs", "-put", "-f", self.full_path, self.loading_path], check=True)
+            subprocess.run(["hdfs", "dfs", "-put", "-f", f"{local.full_path}*", self.loading_path], check=True)
 
             os.remove(self.full_path)
             return True
