@@ -4,6 +4,7 @@ import traceback
 from datetime import datetime
 from ETL.Extractors import *
 from ETL.Transformer import *
+from ETL.Loaders import *
 from utils.SchemaRegistry import *
 
 class FileProcessor:
@@ -35,6 +36,10 @@ class FileProcessor:
                 transformer = transformer_cls(df)
                 transformed_df = transformer.transform()
 
+                # load the dataframe
+                loader = LocalLoader(transformed_df, "tmp", name_without_ext)
+                loader.load()
+                
                 print(f"[SUCCESS] Processed {len(transformed_df)} rows from {file_name}")
 
 
