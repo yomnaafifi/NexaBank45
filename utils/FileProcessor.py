@@ -4,21 +4,7 @@ import traceback
 from datetime import datetime
 from ETL.Extractors import *
 from ETL.Transformer import *
-
-# Registry maps
-EXTRACTOR_REGISTRY = {
-    ".csv": CSVExtractor,
-    ".txt": TextExtractor,
-    ".json": JSONExtractor,
-}
-
-TRANSFORMER_REGISTRY = {
-    "customer_profiles": CustomerTransformer,
-    "credit_cards_billing": BillingTransformer,
-    "support_tickets": TicketsTransformer,
-    "loans": LoansTransformer,
-    "transactions": TransactionsTransformer,
-}
+from utils.SchemaRegistry import *
 
 class FileProcessor:
     def __init__(self, incoming_dir: str):
@@ -46,7 +32,7 @@ class FileProcessor:
                 extractor = extractor_cls(file_path)
                 df = extractor.extract()
 
-                transformer = transformer_cls(df, file_path)
+                transformer = transformer_cls(df)
                 transformed_df = transformer.transform()
 
                 print(f"[SUCCESS] Processed {len(transformed_df)} rows from {file_name}")
