@@ -54,7 +54,10 @@ class CaesarCipher:
         best_shift = 0
         for shift in range(1, 26):
             decrypted = CaesarCipher.encrypt(text, -shift)
-            matches = sum(word.lower() in ENGLISH_WORDS for word in decrypted.split())
+            decrypted_list = decrypted.split()
+            matches = sum(word.lower() in ENGLISH_WORDS for word in decrypted_list)
+            if matches / len(decrypted_list) > 0.5:
+                return decrypted
             if matches > max_matches:
                 max_matches = matches
                 best_shift = shift
