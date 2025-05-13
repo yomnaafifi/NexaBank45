@@ -1,6 +1,3 @@
-# i need to put all the traanformer code in this file
-# starting with the base class
-
 import pandas as pd
 import numpy as np
 from abc import ABC, abstractmethod
@@ -22,7 +19,7 @@ class BaseTransformer(ABC):
         
 class BillingTransformer(BaseTransformer):
     def transform(self):
-        # Calculate payment metrics
+        
         self.df['payment_date'] = pd.to_datetime(self.df['payment_date'])
         self.df['due_date'] = pd.to_datetime(self.df['month'] + '-01')
         
