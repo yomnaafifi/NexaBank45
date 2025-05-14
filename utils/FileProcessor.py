@@ -35,8 +35,8 @@ class FileProcessor:
 
     @logger
     def load(self) -> bool:
-        self.loading_path = os.path.join("tmp", str(self.df['partition_date'].iloc[0]), str(self.df['partition_hour'].iloc[0])) 
-        LocalLoader(self.df, self.loading_path, self.name_without_ext).load()
+        self.loading_path = os.path.join("/NexaBank45", str(self.df['partition_date'].iloc[0]), str(self.df['partition_hour'].iloc[0])) 
+        HdfsLoader(self.df, self.loading_path, self.name_without_ext).load()
 
     @logger
     def validate(self) -> bool:

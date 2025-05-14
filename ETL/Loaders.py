@@ -42,7 +42,7 @@ class LocalLoader(BaseLoader):
             if not os.path.exists(self.loading_path):
                 os.makedirs(self.loading_path)
             writer = LocalParquetWriter(self.dataframe, self.full_path)
-            writer.write()
+            self.full_path = writer.write()
             return True
         except Exception as e:
             print(f"[ERROR] Failed to load to local: {e}")
@@ -56,9 +56,9 @@ class HdfsLoader(BaseLoader):
             local = LocalLoader(self.dataframe, "tmp", self.file_name)
             local.load()
             subprocess.run(["hdfs", "dfs", "-mkdir", "-p", self.loading_path], check=True)
-            subprocess.run(["hdfs", "dfs", "-put", "-f", f"{local.full_path}*", self.loading_path], check=True)
+            subprocess.run(["hdfs", "dfs", "-put", "-f", f"{local.full_path}", self.loading_path], check=True)
 
-            os.remove(self.full_path)
+            os.remove(local.full_path)
             return True
         
         except Exception as e:
