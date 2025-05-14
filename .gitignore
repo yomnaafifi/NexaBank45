@@ -8,3 +8,5 @@ tmp/
 logs/
 hamada*
 utils/state*
+incoming_data/
+.vscode/
