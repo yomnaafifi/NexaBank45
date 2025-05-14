@@ -1,0 +1,23 @@
+services:
+  hadoop-python:
+    build:
+      context: .
+    container_name: hadoop-python
+    hostname: hadoop
+    ports:
+      - "9871:9870" # HDFS UI
+      - "8188:8088" # ResourceManager UI
+    volumes:
+      - ..:/home/hadoop/codes
+      - ./hadoopConf/core-site.xml:/usr/local/hadoop/etc/hadoop/core-site.xml
+      - ./hadoopConf/hdfs-site.xml:/usr/local/hadoop/etc/hadoop/hdfs-site.xml
+      - ./hadoopConf/mapred-site.xml:/usr/local/hadoop/etc/hadoop/mapred-site.xml
+      - ./hadoopConf/yarn-site.xml:/usr/local/hadoop/etc/hadoop/yarn-site.xml
+      - ./hadoopConf/hadoop-env.sh:/usr/local/hadoop/etc/hadoop/hadoop-env.sh
+      - ./hiveConf/hive-site.xml:/usr/local/hive/conf/hive-site.xml
+      - ./tezConf/tez-site.xml:/usr/local/tez/conf/tez-site.xml
+    deploy:
+      resources:
+        limits:
+          memory: 3g
+          cpus: "1.5"

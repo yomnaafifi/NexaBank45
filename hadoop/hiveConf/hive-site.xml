@@ -1,0 +1,21 @@
+<configuration>
+    <property>
+        <name>hive.server2.enable.doAs</name>
+        <value>FALSE</value>
+    </property>
+
+    <property>
+        <name>hive.metastore.event.db.notification.enable</name>
+        <value>false</value>
+    </property>
+    <property>
+        <name>hive.metastore.event.db.notification.api.auth</name>
+        <value>false</value>
+    </property>
+    
+    <property>
+        <name>hive.execution.engine</name>
+        <value>tez</value>
+    </property>
+    
+</configuration>
