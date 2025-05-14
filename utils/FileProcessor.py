@@ -11,6 +11,7 @@ class FileProcessor:
         self.file_name = os.path.basename(self.file_path)
         self.name_without_ext, self.ext = os.path.splitext(self.file_name)
         self.df = pd.DataFrame()
+        self.loading_path = file_path
 
     def get_extractor(self) -> BaseExtractor.__class__: 
         if EXTRACTOR_REGISTRY.get(self.ext.lower()):
@@ -34,7 +35,8 @@ class FileProcessor:
 
     @logger
     def load(self) -> bool:
-        LocalLoader(self.df, "tmp", self.name_without_ext).load()
+        self.loading_path = os.path.join("tmp", str(self.df['partition_date'].iloc[0]), str(self.df['partition_hour'].iloc[0])) 
+        LocalLoader(self.df, self.loading_path, self.name_without_ext).load()
 
     @logger
     def validate(self) -> bool:

@@ -27,7 +27,7 @@ class BaseLoader(ABC):
     """Base class for loaders that handle the loading of dataframes to different destinations."""
     def __init__(self, dataframe: pd.DataFrame, loading_path:str, file_name:str):
         self.dataframe = dataframe
-        self.loading_path = os.path.join(loading_path, str(dataframe['partition_date'].iloc[0]), str(dataframe['partition_hour'].iloc[0])) 
+        self.loading_path = loading_path 
         self.file_name = file_name
         self.full_path = os.path.join(self.loading_path, self.file_name) 
 
