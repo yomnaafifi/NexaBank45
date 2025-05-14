@@ -1,5 +1,5 @@
 import time
-import traceback
+import threading
 from ETL.Extractors import *
 from ETL.Transformer import *
 from ETL.Loaders import *
@@ -12,25 +12,29 @@ setup_logger()
 
 class PipelineHandler(FileSystemEventHandler):
     def on_created(self, event):
-        print('hi ya big data')
-
-        print(event.src_path.split('/')[0])
 
         if event.is_directory:
+            log_action('Incoming','Ignored Directory' ,{'path':event.src_path})
             return
+        log_action('Incoming','File' ,{'path':event.src_path})
 
-        file = FileProcessor(event.src_path)
 
-        log_action("ETL","Started The pipline",{'filename':event.src_path})
-        try:
-            file.extract()
-            if file.validate():
-                file.transform()
-                file.load()
-                print(f"[SUCCESS] Processed {len(file.df)} rows from {file.file_name}")
-        except Exception as e:
-            print(f"[ERROR] Failed to process {file.file_name}: {e}")
-            traceback.print_exc()
+        
+        def process_file():
+            file = FileProcessor(event.src_path)
+            log_action("ETL","Started The pipline",{'filename':event.src_path})
+            try:
+                file.extract()
+                if file.validate():
+                    file.transform()
+                    file.load()
+                    log_action("[SUCCESS]", f"Processed {len(file.df)} rows from {file.file_name}")
+
+            except Exception as e:
+                log_action("[ERROR]", f"Failed to process {file.file_name} in : {e}")
+        
+        thread = threading.Thread(target=process_file)
+        thread.start()
 
 
 if __name__ == "__main__":

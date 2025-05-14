@@ -1,5 +1,7 @@
 import logging
 import os
+from utils.email_notifier import EmailNotifier
+import threading
 
 def setup_logger(log_dir: str = "logs"):
     """Configure logging to file with timestamped entries."""
@@ -27,15 +29,20 @@ def logger(func):
         log_action(
             f"{func.__name__}ing {args[0].file_name}",
             "STARTED",
-            {"row count": len(args[0].df), "fun": ""}
+            {"row count": len(args[0].df)}
         )
         try:
             result = func(*args, **kwargs)
             log_action(f"{func.__name__}ed {args[0].file_name}",
                 "COMPLETED",
-                {"row count": len(args[0].df), "fun": ""})
+                {"row count": len(args[0].df)})
             return result
         except Exception as e:
-            log_action("action", "FAILED", {"error": str(e)})
-            raise
+            log_action(f"{func.__name__}ing {args[0].file_name}", {"error": str(e)})
+            log_action(f"sending an email ", {"error": str(e)})
+            threading.Thread(
+                target=EmailNotifier.send_alert,
+                args=(f"{func.__name__}ing {args[0].file_name}", f"error {str(e)}")
+            ).start()
+            raise e
     return wrapper

@@ -41,15 +41,12 @@ class FileProcessor:
         if self.name_without_ext in SCHEMA_REGISTRY.keys():
             expected_columns = SCHEMA_REGISTRY[self.name_without_ext].keys()
             if not all(col in self.df.columns for col in expected_columns):
-                print(f"DataFrame does not have the expected columns for {self.file_name}.")
-                return False
+                raise ValueError(f"DataFrame does not have the expected columns for {self.file_name}.")
             
             for col, expected_type in SCHEMA_REGISTRY[self.name_without_ext].items():
                 if not pd.api.types.is_dtype_equal(self.df[col].dtype, expected_type):
-                    print(f"Column {col} in DataFrame does not have the expected type for {self.file_name}.")
-                    return False
+                    raise ValueError(f"Column {col} in DataFrame does not have the expected type for {self.file_name}.")
                 
-        else :
-            print(f"File name {self.file_name} is not recognized.")
-            return False
-        return True 
+        else:
+            raise ValueError(f"File name {self.file_name} is not recognized.")
+        return True

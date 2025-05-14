@@ -4,3 +4,7 @@ __pycache__/
 *.py[cod]
 
 .env
+tmp/
+logs/
+hamada*
+utils/state*
