@@ -1,5 +1,4 @@
 import logging
-from datetime import datetime
 import os
 
 def setup_logger(log_dir: str = "logs"):
@@ -26,13 +25,15 @@ def log_action(action: str, status: str, details: dict = None):
 def logger(func):
     def wrapper(*args, **kwargs):
         log_action(
-            f"{func.__name__}ing {args[0].file}",
+            f"{func.__name__}ing {args[0].file_name}",
             "STARTED",
-            {"class": func.__qualname__, "fun": ""}
+            {"row count": len(args[0].df), "fun": ""}
         )
         try:
             result = func(*args, **kwargs)
-            log_action("action", "COMPLETED", {"result": result})
+            log_action(f"{func.__name__}ed {args[0].file_name}",
+                "COMPLETED",
+                {"row count": len(args[0].df), "fun": ""})
             return result
         except Exception as e:
             log_action("action", "FAILED", {"error": str(e)})

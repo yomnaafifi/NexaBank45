@@ -23,14 +23,11 @@ class PipelineHandler(FileSystemEventHandler):
 
         log_action("ETL","Started The pipline",{'filename':event.src_path})
         try:
-            extractor = file.get_extractor()
-            df = extractor.extract()
-            if file.validate(df):
-                transformer = file.get_transformer()(df)
-                transformed_df = transformer.transform()
-                loader = LocalLoader(transformed_df, "tmp", file.name_without_ext)
-                loader.load()
-                print(f"[SUCCESS] Processed {len(transformed_df)} rows from {file.file_name}")
+            file.extract()
+            if file.validate():
+                file.transform()
+                file.load()
+                print(f"[SUCCESS] Processed {len(file.df)} rows from {file.file_name}")
         except Exception as e:
             print(f"[ERROR] Failed to process {file.file_name}: {e}")
             traceback.print_exc()

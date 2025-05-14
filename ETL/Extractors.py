@@ -1,6 +1,6 @@
 from abc import ABC, abstractmethod
 import pandas as pd
-from utils.logger import logger
+
 class BaseExtractor(ABC):
     def __init__(self, file: str):
         """
@@ -10,7 +10,7 @@ class BaseExtractor(ABC):
             file (str): The file path or name associated with the extractor.
         """
         self.file = file
-    @logger
+
     @abstractmethod
     def extract(self) -> pd.DataFrame:
         """
@@ -25,8 +25,7 @@ class BaseExtractor(ABC):
 class CSVExtractor(BaseExtractor):
     def __init__(self, file: str):
         super().__init__(file)
-        
-    @logger
+
     def extract(self) -> pd.DataFrame:
         """
         Extract data from a CSV file using pandas.
@@ -38,7 +37,6 @@ class JSONExtractor(BaseExtractor):
     def __init__(self, file: str):
         super().__init__(file)
 
-    @logger
     def extract(self) -> pd.DataFrame:
         """
         Extract data from a JSON file using pandas.
@@ -50,7 +48,6 @@ class TextExtractor(BaseExtractor):
     def __init__(self, file: str):
         super().__init__(file)
 
-    @logger
     def extract(self) -> pd.DataFrame:
         """
         Extract data from a plain text file using pandas.
