@@ -10,3 +10,5 @@ hamada*
 utils/state*
 incoming_data/
 .vscode/
+unprocessed/
+archive/
